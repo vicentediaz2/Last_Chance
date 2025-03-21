@@ -53,5 +53,32 @@ TagManager:
   - name: bg4
     uniqueID: 2199166311
     locked: 0
+  - name: obj1
+    uniqueID: 1916730191
+    locked: 0
+  - name: obj_madera1
+    uniqueID: 329027203
+    locked: 0
+  - name: floor_central
+    uniqueID: 244831311
+    locked: 0
+  - name: floor_central2
+    uniqueID: 1075965605
+    locked: 0
+  - name: floor_central3
+    uniqueID: 1469297929
+    locked: 0
+  - name: obj_madera2
+    uniqueID: 1934717383
+    locked: 0
+  - name: obj_verde1
+    uniqueID: 756959751
+    locked: 0
+  - name: floor_central4
+    uniqueID: 4203271029
+    locked: 0
+  - name: Puerta Final
+    uniqueID: 1326842035
+    locked: 0
   m_RenderingLayers:
   - Default
