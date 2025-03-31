@@ -1,0 +1,1130 @@
+fileFormatVersion: 2
+guid: e9ceee7b0a67e38418766b1fdb2ee144
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6271729744321200309
+    second: hood_pistol_heal_0
+  - first:
+      213: 677420550305610027
+    second: hood_pistol_heal_1
+  - first:
+      213: 7160528447810597552
+    second: hood_pistol_heal_2
+  - first:
+      213: 8432723772796618795
+    second: hood_pistol_heal_3
+  - first:
+      213: -5227718020570728337
+    second: hood_pistol_heal_4
+  - first:
+      213: 2726972168163244146
+    second: hood_pistol_heal_5
+  - first:
+      213: -319061101494151478
+    second: hood_pistol_heal_6
+  - first:
+      213: -4724772810163321172
+    second: hood_pistol_heal_7
+  - first:
+      213: -2487737696105500542
+    second: hood_pistol_heal_8
+  - first:
+      213: 34775159619141014
+    second: hood_pistol_heal_9
+  - first:
+      213: -5779316829408046982
+    second: hood_pistol_heal_10
+  - first:
+      213: -3579045165584046080
+    second: hood_pistol_heal_11
+  - first:
+      213: 2007145705046130699
+    second: hood_pistol_heal_12
+  - first:
+      213: -8291184238071733614
+    second: hood_pistol_heal_13
+  - first:
+      213: -3735010027298712484
+    second: hood_pistol_heal_14
+  - first:
+      213: 6056437213403274865
+    second: hood_pistol_heal_15
+  - first:
+      213: -1073381415961646798
+    second: hood_pistol_heal_16
+  - first:
+      213: 329688125191328907
+    second: hood_pistol_heal_17
+  - first:
+      213: 751789113900999862
+    second: hood_pistol_heal_18
+  - first:
+      213: 7028063335732698476
+    second: hood_pistol_heal_19
+  - first:
+      213: 1632582564166275718
+    second: hood_pistol_heal_20
+  - first:
+      213: 8738828088656241877
+    second: hood_pistol_heal_21
+  - first:
+      213: -2340636974850858635
+    second: hood_pistol_heal_22
+  - first:
+      213: 4694041508317688248
+    second: hood_pistol_heal_23
+  - first:
+      213: -5450983380588317428
+    second: hood_pistol_heal_24
+  - first:
+      213: 5747263278293619644
+    second: hood_pistol_heal_25
+  - first:
+      213: 1314166181017002489
+    second: hood_pistol_heal_26
+  - first:
+      213: -5627006066208223272
+    second: hood_pistol_heal_27
+  - first:
+      213: 2732726955122671759
+    second: hood_pistol_heal_28
+  - first:
+      213: -582821341971321960
+    second: hood_pistol_heal_29
+  - first:
+      213: -4210764688234666994
+    second: hood_pistol_heal_30
+  - first:
+      213: -7211032453975660258
+    second: hood_pistol_heal_31
+  - first:
+      213: 4840750411879719866
+    second: hood_pistol_heal_32
+  - first:
+      213: -8686219890707500501
+    second: hood_pistol_heal_33
+  - first:
+      213: 8889799280659893914
+    second: hood_pistol_heal_34
+  - first:
+      213: -2410967356468398092
+    second: hood_pistol_heal_35
+  - first:
+      213: 8515231791772810258
+    second: hood_pistol_heal_36
+  - first:
+      213: -8464074528553060149
+    second: hood_pistol_heal_37
+  - first:
+      213: -9079977197653918528
+    second: hood_pistol_heal_38
+  - first:
+      213: 1900551011265058758
+    second: hood_pistol_heal_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_pistol_heal_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fbb7ec60756f8a0800000000000000
+      internalID: -6271729744321200309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29f380c66ea66900800000000000000
+      internalID: 677420550305610027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b274d76fae4f5360800000000000000
+      internalID: 7160528447810597552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28c886c79d070570800000000000000
+      internalID: 8432723772796618795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6839fd682a6377b0800000000000000
+      internalID: -5227718020570728337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2783fb32db628d520800000000000000
+      internalID: 2726972168163244146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6dbcf5e97729bf0800000000000000
+      internalID: -319061101494151478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca68acd792c3e6eb0800000000000000
+      internalID: -4724772810163321172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2807849feb7c97dd0800000000000000
+      internalID: -2487737696105500542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d3b1cc2db8b7000800000000000000
+      internalID: 34775159619141014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7052bab6fdbbcfa0800000000000000
+      internalID: -5779316829408046982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008a84e626da45ec0800000000000000
+      internalID: -3579045165584046080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_12
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c9b96260dadb10800000000000000
+      internalID: 2007145705046130699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292aa623ddbcfec80800000000000000
+      internalID: -8291184238071733614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54965a4b249a2cc0800000000000000
+      internalID: -3735010027298712484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17edb55ae89cc0450800000000000000
+      internalID: 6056437213403274865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_16
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239a9190a459a11f0800000000000000
+      internalID: -1073381415961646798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_17
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8491b46a99439400800000000000000
+      internalID: 329688125191328907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_18
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b423184734ee6a00800000000000000
+      internalID: 751789113900999862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_19
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d5b491e52b88160800000000000000
+      internalID: 7028063335732698476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_20
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68290ab313918a610800000000000000
+      internalID: 1632582564166275718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_21
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4af89a8dd864970800000000000000
+      internalID: 8738828088656241877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_22
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571aed59213648fd0800000000000000
+      internalID: -2340636974850858635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_23
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b1f638b1e5942140800000000000000
+      internalID: 4694041508317688248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_24
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c05b973fe773a54b0800000000000000
+      internalID: -5450983380588317428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_25
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb39655508162cf40800000000000000
+      internalID: 5747263278293619644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_26
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1a95bcd2bdc3210800000000000000
+      internalID: 1314166181017002489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_27
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfc0b2cbcbd8e1b0800000000000000
+      internalID: -5627006066208223272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_28
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80c834efa89ce520800000000000000
+      internalID: 2732726955122671759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_29
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b6840d31769e7f0800000000000000
+      internalID: -582821341971321960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_30
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e04a30d53db5095c0800000000000000
+      internalID: -4210764688234666994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_31
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e19a7f450344deb90800000000000000
+      internalID: -7211032453975660258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_32
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3aa6a2adccd2340800000000000000
+      internalID: 4840750411879719866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_33
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b22727de709547780800000000000000
+      internalID: -8686219890707500501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_34
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e81487859ee5b70800000000000000
+      internalID: 8889799280659893914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_35
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f773a096f58a8ed0800000000000000
+      internalID: -2410967356468398092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_36
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c3bb0f23e2c2670800000000000000
+      internalID: 8515231791772810258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_37
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8b9259f01998a80800000000000000
+      internalID: -8464074528553060149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_38
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccf035b8d07df180800000000000000
+      internalID: -9079977197653918528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_heal_39
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c796ff331d106a10800000000000000
+      internalID: 1900551011265058758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1355 @@
+fileFormatVersion: 2
+guid: 9cd99c1cd58a87743b13e0379e7616ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 55084316734939087
+    second: hood_pistol_run_shooting_0
+  - first:
+      213: -9214861795085848741
+    second: hood_pistol_run_shooting_1
+  - first:
+      213: -8600088549156222357
+    second: hood_pistol_run_shooting_2
+  - first:
+      213: -8753663445209089622
+    second: hood_pistol_run_shooting_3
+  - first:
+      213: 2768541658801441516
+    second: hood_pistol_run_shooting_4
+  - first:
+      213: 8249688940046474430
+    second: hood_pistol_run_shooting_5
+  - first:
+      213: -3443688340715019037
+    second: hood_pistol_run_shooting_6
+  - first:
+      213: 5899841074802547460
+    second: hood_pistol_run_shooting_7
+  - first:
+      213: 1528199182102966498
+    second: hood_pistol_run_shooting_8
+  - first:
+      213: -7062087132976361639
+    second: hood_pistol_run_shooting_9
+  - first:
+      213: 6253928779485791765
+    second: hood_pistol_run_shooting_10
+  - first:
+      213: -1362173138558638702
+    second: hood_pistol_run_shooting_11
+  - first:
+      213: -7183068162994042028
+    second: hood_pistol_run_shooting_12
+  - first:
+      213: -4075736160794123487
+    second: hood_pistol_run_shooting_13
+  - first:
+      213: 5830187239521301604
+    second: hood_pistol_run_shooting_14
+  - first:
+      213: -5454961203566326965
+    second: hood_pistol_run_shooting_15
+  - first:
+      213: -3481972140422335155
+    second: hood_pistol_run_shooting_16
+  - first:
+      213: -7542170297735349748
+    second: hood_pistol_run_shooting_17
+  - first:
+      213: 5968516255480727572
+    second: hood_pistol_run_shooting_18
+  - first:
+      213: -3939657332308550503
+    second: hood_pistol_run_shooting_19
+  - first:
+      213: 7908413306094113938
+    second: hood_pistol_run_shooting_20
+  - first:
+      213: -6953183677020681581
+    second: hood_pistol_run_shooting_21
+  - first:
+      213: 7299281246497043314
+    second: hood_pistol_run_shooting_22
+  - first:
+      213: -5963326584490042175
+    second: hood_pistol_run_shooting_23
+  - first:
+      213: 7875020060719251133
+    second: hood_pistol_run_shooting_24
+  - first:
+      213: -8080761165077404523
+    second: hood_pistol_run_shooting_25
+  - first:
+      213: 6244097978025731054
+    second: hood_pistol_run_shooting_26
+  - first:
+      213: -4381960542860482386
+    second: hood_pistol_run_shooting_27
+  - first:
+      213: 4804660745687829537
+    second: hood_pistol_run_shooting_28
+  - first:
+      213: -9026383983034614973
+    second: hood_pistol_run_shooting_29
+  - first:
+      213: -368054062242212454
+    second: hood_pistol_run_shooting_30
+  - first:
+      213: -678480125574000267
+    second: hood_pistol_run_shooting_31
+  - first:
+      213: -2635715746942287431
+    second: hood_pistol_run_shooting_32
+  - first:
+      213: 9147009039610125070
+    second: hood_pistol_run_shooting_33
+  - first:
+      213: -4580858094876304846
+    second: hood_pistol_run_shooting_34
+  - first:
+      213: 7057129488634713071
+    second: hood_pistol_run_shooting_35
+  - first:
+      213: 5556323374742811142
+    second: hood_pistol_run_shooting_36
+  - first:
+      213: -3222158518699682340
+    second: hood_pistol_run_shooting_37
+  - first:
+      213: 415089998733947345
+    second: hood_pistol_run_shooting_38
+  - first:
+      213: -1216734977303851406
+    second: hood_pistol_run_shooting_39
+  - first:
+      213: -3262879551263575608
+    second: hood_pistol_run_shooting_40
+  - first:
+      213: 7763166201094295022
+    second: hood_pistol_run_shooting_41
+  - first:
+      213: -9044212573969169179
+    second: hood_pistol_run_shooting_42
+  - first:
+      213: 3774133515387037717
+    second: hood_pistol_run_shooting_43
+  - first:
+      213: 8634936768938237670
+    second: hood_pistol_run_shooting_44
+  - first:
+      213: 4138429925535730896
+    second: hood_pistol_run_shooting_45
+  - first:
+      213: 7670497244883870421
+    second: hood_pistol_run_shooting_46
+  - first:
+      213: -4064810523742932974
+    second: hood_pistol_run_shooting_47
+  - first:
+      213: 500162311714123221
+    second: hood_pistol_run_shooting_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf5eabe4e2b3c000800000000000000
+      internalID: 55084316734939087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fe691150c3e1080800000000000000
+      internalID: -9214861795085848741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_2
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a83ae970956a880800000000000000
+      internalID: -8600088549156222357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa97df8b97db48680800000000000000
+      internalID: -8753663445209089622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_4
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea0bb668f5db6620800000000000000
+      internalID: 2768541658801441516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_5
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc50fad168cc7270800000000000000
+      internalID: 8249688940046474430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_6
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e68613bf8530d0800000000000000
+      internalID: -3443688340715019037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40b5dd6e23270e150800000000000000
+      internalID: 5899841074802547460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e03a433f01453510800000000000000
+      internalID: 1528199182102966498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_9
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f461a4b2d6efd90800000000000000
+      internalID: -7062087132976361639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_10
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516c7d7171b6ac650800000000000000
+      internalID: 6253928779485791765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_11
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29522a16fb6981de0800000000000000
+      internalID: -1362173138558638702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_12
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b8253309d905c90800000000000000
+      internalID: -7183068162994042028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_13
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 123e6a15e831077c0800000000000000
+      internalID: -4075736160794123487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_14
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464bea9976cf8e050800000000000000
+      internalID: 5830187239521301604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_15
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b44eddfa51c44b0800000000000000
+      internalID: -5454961203566326965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_16
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45f15c59cc8dafc0800000000000000
+      internalID: -3481972140422335155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_17
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a7bf70314d45790800000000000000
+      internalID: -7542170297735349748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_18
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418c21c69ed64d250800000000000000
+      internalID: 5968516255480727572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_19
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c5cfa87868359c0800000000000000
+      internalID: -3939657332308550503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_20
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29456b6500450cd60800000000000000
+      internalID: 7908413306094113938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_21
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a43290944518f90800000000000000
+      internalID: -6953183677020681581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_22
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737025de914c4560800000000000000
+      internalID: 7299281246497043314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_23
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ccd3d301120e3da0800000000000000
+      internalID: -5963326584490042175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_24
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbefe368501b94d60800000000000000
+      internalID: 7875020060719251133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_25
+      rect:
+        serializedVersion: 2
+        x: 2261
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5942ac8b88e5bdf80800000000000000
+      internalID: -8080761165077404523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_26
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee365f2470e77a650800000000000000
+      internalID: 6244097978025731054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_27
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8e5075a162033c0800000000000000
+      internalID: -4381960542860482386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_28
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c8cf4fd759da240800000000000000
+      internalID: 4804660745687829537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_29
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b32fc5797dbb280800000000000000
+      internalID: -9026383983034614973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_30
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95d9e9c7c864eaf0800000000000000
+      internalID: -368054062242212454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_31
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571dff7abed8596f0800000000000000
+      internalID: -678480125574000267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_32
+      rect:
+        serializedVersion: 2
+        x: 2901
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10a962e7e0c6bd0800000000000000
+      internalID: -2635715746942287431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_33
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b9f333244b0fe70800000000000000
+      internalID: 9147009039610125070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_34
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23adc6845d58d60c0800000000000000
+      internalID: -4580858094876304846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_35
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3910031e5ffe160800000000000000
+      internalID: 7057129488634713071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_36
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602beb0bba60c1d40800000000000000
+      internalID: 5556323374742811142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_37
+      rect:
+        serializedVersion: 2
+        x: 3415
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd518e226e79843d0800000000000000
+      internalID: -3222158518699682340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_38
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1ba549722b2c500800000000000000
+      internalID: 415089998733947345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_39
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ec2041cf94d1fe0800000000000000
+      internalID: -1216734977303851406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_40
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c17c0ae55ce7b2d0800000000000000
+      internalID: -3262879551263575608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_41
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed4b84678e4cbb60800000000000000
+      internalID: 7763166201094295022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_42
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 31
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e4427f05908c7280800000000000000
+      internalID: -9044212573969169179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_43
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 33
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5186a8f9f6a606430800000000000000
+      internalID: 3774133515387037717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_44
+      rect:
+        serializedVersion: 2
+        x: 4055
+        y: 47
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eed582dd3575d770800000000000000
+      internalID: 8634936768938237670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_45
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 35
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc47674718ae6930800000000000000
+      internalID: 4138429925535730896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_46
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 45
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d26aebaa94137a60800000000000000
+      internalID: 7670497244883870421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_47
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 33
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210780d6d54e697c0800000000000000
+      internalID: -4064810523742932974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_run_shooting_48
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 31
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd22c7f8fee0f600800000000000000
+      internalID: 500162311714123221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

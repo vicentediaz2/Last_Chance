@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: bfbadd75beacbed4c930daf673158f1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6033202769942574040
+    second: hood_shotgun_idle_0
+  - first:
+      213: -1502900233217033125
+    second: hood_shotgun_idle_1
+  - first:
+      213: -2346752018402391165
+    second: hood_shotgun_idle_2
+  - first:
+      213: -1478955657404716507
+    second: hood_shotgun_idle_3
+  - first:
+      213: 8130688093011409441
+    second: hood_shotgun_idle_4
+  - first:
+      213: 2878569988800851307
+    second: hood_shotgun_idle_5
+  - first:
+      213: -6167427657292288917
+    second: hood_shotgun_idle_6
+  - first:
+      213: 4638642692313490397
+    second: hood_shotgun_idle_7
+  - first:
+      213: -8536524911786238871
+    second: hood_shotgun_idle_8
+  - first:
+      213: 8614323236152000845
+    second: hood_shotgun_idle_9
+  - first:
+      213: 2653422379600692896
+    second: hood_shotgun_idle_10
+  - first:
+      213: -5279306775913054603
+    second: hood_shotgun_idle_11
+  - first:
+      213: -2635279653374909514
+    second: hood_shotgun_idle_12
+  - first:
+      213: -1639545709691625198
+    second: hood_shotgun_idle_13
+  - first:
+      213: 5727351827067105988
+    second: hood_shotgun_idle_14
+  - first:
+      213: -7367451010077618200
+    second: hood_shotgun_idle_15
+  - first:
+      213: -6265555567496384999
+    second: hood_shotgun_idle_16
+  - first:
+      213: -9125893047646513653
+    second: hood_shotgun_idle_17
+  - first:
+      213: 3910031851273961182
+    second: hood_shotgun_idle_18
+  - first:
+      213: -4354385958826507847
+    second: hood_shotgun_idle_19
+  - first:
+      213: 6455627362083023633
+    second: hood_shotgun_idle_20
+  - first:
+      213: -1031718192060631308
+    second: hood_shotgun_idle_21
+  - first:
+      213: 7181062204048034651
+    second: hood_shotgun_idle_22
+  - first:
+      213: 1432270774961419160
+    second: hood_shotgun_idle_23
+  - first:
+      213: 7032308209482109797
+    second: hood_shotgun_idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_shotgun_idle_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3745834fd3ab350800000000000000
+      internalID: 6033202769942574040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c3f3a5330a42be0800000000000000
+      internalID: -1502900233217033125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38bc13f0979ae6fd0800000000000000
+      internalID: -2346752018402391165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a66d95aa1b97be0800000000000000
+      internalID: -1478955657404716507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a717b0eb106d070800000000000000
+      internalID: 8130688093011409441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d239b472cb2f720800000000000000
+      internalID: 2878569988800851307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c6c2dd835e86aa0800000000000000
+      internalID: -6167427657292288917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3ae4bb3f4cf5040800000000000000
+      internalID: 4638642692313490397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c55b832db288980800000000000000
+      internalID: -8536524911786238871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41cb37b7593c8770800000000000000
+      internalID: 8614323236152000845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6cb278899d2d420800000000000000
+      internalID: 2653422379600692896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eb36155722cb6b0800000000000000
+      internalID: -5279306775913054603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b326c81e1b9d6bd0800000000000000
+      internalID: -2635279653374909514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211a0dc1dd92f39e0800000000000000
+      internalID: -1639545709691625198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f4045424ab7f40800000000000000
+      internalID: 5727351827067105988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef0b3c375e81c990800000000000000
+      internalID: -7367451010077618200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e28ee58664c09a0800000000000000
+      internalID: -6265555567496384999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0692dccf905a5180800000000000000
+      internalID: -9125893047646513653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edeb5a3a049334630800000000000000
+      internalID: 3910031851273961182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b1823d7a0d1293c0800000000000000
+      internalID: -4354385958826507847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_20
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b2047e1eef69950800000000000000
+      internalID: 6455627362083023633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_21
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6fae545c99ea1f0800000000000000
+      internalID: -1031718192060631308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_22
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 31
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b4446170248a360800000000000000
+      internalID: 7181062204048034651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_23
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893bfbb6ea270e310800000000000000
+      internalID: 1432270774961419160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_shotgun_idle_24
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 31
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639e39ce07c79160800000000000000
+      internalID: 7032308209482109797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

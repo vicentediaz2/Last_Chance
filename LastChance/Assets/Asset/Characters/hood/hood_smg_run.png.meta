@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 6d66ac526548c3843892e97407140226
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2622413029099689976
+    second: hood_smg_run_0
+  - first:
+      213: 7430605413477174361
+    second: hood_smg_run_1
+  - first:
+      213: -4012076384393730707
+    second: hood_smg_run_2
+  - first:
+      213: -6414622378473706903
+    second: hood_smg_run_3
+  - first:
+      213: -550021061774339941
+    second: hood_smg_run_4
+  - first:
+      213: 2546480834507127341
+    second: hood_smg_run_5
+  - first:
+      213: -682646075393990132
+    second: hood_smg_run_6
+  - first:
+      213: 5659062557729473947
+    second: hood_smg_run_7
+  - first:
+      213: -561832857593088506
+    second: hood_smg_run_8
+  - first:
+      213: 7128831915832214489
+    second: hood_smg_run_9
+  - first:
+      213: -2405385742239842320
+    second: hood_smg_run_10
+  - first:
+      213: 8518325217117836226
+    second: hood_smg_run_11
+  - first:
+      213: -8160990347586677784
+    second: hood_smg_run_12
+  - first:
+      213: 5441768037863970824
+    second: hood_smg_run_13
+  - first:
+      213: 228921683750273602
+    second: hood_smg_run_14
+  - first:
+      213: 2824084122744384362
+    second: hood_smg_run_15
+  - first:
+      213: 6104860307487550171
+    second: hood_smg_run_16
+  - first:
+      213: 3665773094983301702
+    second: hood_smg_run_17
+  - first:
+      213: -7535971455708265198
+    second: hood_smg_run_18
+  - first:
+      213: -2960686756150543585
+    second: hood_smg_run_19
+  - first:
+      213: 3376396470363401652
+    second: hood_smg_run_20
+  - first:
+      213: 2807704973166170829
+    second: hood_smg_run_21
+  - first:
+      213: 885341328343362648
+    second: hood_smg_run_22
+  - first:
+      213: 5465697491625797159
+    second: hood_smg_run_23
+  - first:
+      213: 5814734396411691068
+    second: hood_smg_run_24
+  - first:
+      213: -769756663370809837
+    second: hood_smg_run_25
+  - first:
+      213: -2076205967886749281
+    second: hood_smg_run_26
+  - first:
+      213: 3633451635399377039
+    second: hood_smg_run_27
+  - first:
+      213: -7849218861141061531
+    second: hood_smg_run_28
+  - first:
+      213: -4822089432567693161
+    second: hood_smg_run_29
+  - first:
+      213: -4705105442128972678
+    second: hood_smg_run_30
+  - first:
+      213: -4834306343617245427
+    second: hood_smg_run_31
+  - first:
+      213: -5683285587282339357
+    second: hood_smg_run_32
+  - first:
+      213: -1272473806414804342
+    second: hood_smg_run_33
+  - first:
+      213: 6208461063516451942
+    second: hood_smg_run_34
+  - first:
+      213: 2574916125965711530
+    second: hood_smg_run_35
+  - first:
+      213: 6481341023136893057
+    second: hood_smg_run_36
+  - first:
+      213: 3707966496932583641
+    second: hood_smg_run_37
+  - first:
+      213: -6323597263911326122
+    second: hood_smg_run_38
+  - first:
+      213: -7030743751645206025
+    second: hood_smg_run_39
+  - first:
+      213: 8522083568752574696
+    second: hood_smg_run_40
+  - first:
+      213: 2801143679646890201
+    second: hood_smg_run_41
+  - first:
+      213: 8152639096326565665
+    second: hood_smg_run_42
+  - first:
+      213: 1187492487399913205
+    second: hood_smg_run_43
+  - first:
+      213: 5878139173633462717
+    second: hood_smg_run_44
+  - first:
+      213: 7502534123921141669
+    second: hood_smg_run_45
+  - first:
+      213: 6585935223927093506
+    second: hood_smg_run_46
+  - first:
+      213: -8602092399617784882
+    second: hood_smg_run_47
+  - first:
+      213: -3831026696020441718
+    second: hood_smg_run_48
+  - first:
+      213: -1720281193187492155
+    second: hood_smg_run_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_smg_run_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7d7dd71cea46420800000000000000
+      internalID: 2622413029099689976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 33
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cc6682140de1760800000000000000
+      internalID: 7430605413477174361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 35
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d656a7809cd3258c0800000000000000
+      internalID: -4012076384393730707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 33
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96aadc2deeeaaf6a0800000000000000
+      internalID: -6414622378473706903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_4
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9015f922ceed58f0800000000000000
+      internalID: -550021061774339941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a3320c3dae65320800000000000000
+      internalID: 2546480834507127341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 33
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02a3d0e201c686f0800000000000000
+      internalID: -682646075393990132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 35
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95cd2bc967098e40800000000000000
+      internalID: 5659062557729473947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_8
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60675042ef7f338f0800000000000000
+      internalID: -561832857593088506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_9
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d385a67bd2bee260800000000000000
+      internalID: 7128831915832214489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff3106696a5e9ed0800000000000000
+      internalID: -2405385742239842320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 33
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c39f8727ab273670800000000000000
+      internalID: 8518325217117836226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 35
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e354b484865ebe80800000000000000
+      internalID: -8160990347586677784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_13
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 33
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808d4fed23b058b40800000000000000
+      internalID: 5441768037863970824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_14
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 242c159fe0b4d2300800000000000000
+      internalID: 228921683750273602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6beff70c89213720800000000000000
+      internalID: 2824084122744384362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 33
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6d2fca12d8b450800000000000000
+      internalID: 6104860307487550171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 35
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64af9a135317fd230800000000000000
+      internalID: 3665773094983301702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_18
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215860963e9da6790800000000000000
+      internalID: -7535971455708265198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_19
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7178e41789e6d0800000000000000
+      internalID: -2960686756150543585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_20
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bda4ec63be5bde20800000000000000
+      internalID: 3376396470363401652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_21
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 33
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2daa71cc8f6f620800000000000000
+      internalID: 2807704973166170829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_22
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 35
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ce0e45f3d594c00800000000000000
+      internalID: 885341328343362648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_23
+      rect:
+        serializedVersion: 2
+        x: 2991
+        y: 33
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 726691ef8ee0adb40800000000000000
+      internalID: 5465697491625797159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_24
+      rect:
+        serializedVersion: 2
+        x: 3119
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c304d51302612b050800000000000000
+      internalID: 5814734396411691068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_25
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31efa4c94664155f0800000000000000
+      internalID: -769756663370809837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_26
+      rect:
+        serializedVersion: 2
+        x: 3377
+        y: 33
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9170932ca5df23e0800000000000000
+      internalID: -2076205967886749281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_27
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 35
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80ca84f20d9c6230800000000000000
+      internalID: 3633451635399377039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_28
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56014616809f11390800000000000000
+      internalID: -7849218861141061531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_29
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79043a8a53f741db0800000000000000
+      internalID: -4822089432567693161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_30
+      rect:
+        serializedVersion: 2
+        x: 3889
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a743523778b14beb0800000000000000
+      internalID: -4705105442128972678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_31
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 33
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0fc6456ef719ecb0800000000000000
+      internalID: -4834306343617245427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_32
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 35
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e950f4aed9e021b0800000000000000
+      internalID: -5683285587282339357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_33
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 33
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a08ae90d3475ee0800000000000000
+      internalID: -1272473806414804342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_34
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664fdb48172e82650800000000000000
+      internalID: 6208461063516451942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_35
+      rect:
+        serializedVersion: 2
+        x: 4529
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa87c96f290fbb320800000000000000
+      internalID: 2574916125965711530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_36
+      rect:
+        serializedVersion: 2
+        x: 4657
+        y: 33
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188cd38225952f950800000000000000
+      internalID: 6481341023136893057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_37
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 35
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d857b022e7557330800000000000000
+      internalID: 3707966496932583641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_38
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65eeee5dac11e38a0800000000000000
+      internalID: -6323597263911326122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_39
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9e360fec7cd6e90800000000000000
+      internalID: -7030743751645206025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_40
+      rect:
+        serializedVersion: 2
+        x: 5169
+        y: 31
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0c0b59ad5844670800000000000000
+      internalID: 8522083568752574696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_41
+      rect:
+        serializedVersion: 2
+        x: 5297
+        y: 33
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8fe26e559afd620800000000000000
+      internalID: 2801143679646890201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_42
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 35
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fa186401ef32170800000000000000
+      internalID: 8152639096326565665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_43
+      rect:
+        serializedVersion: 2
+        x: 5551
+        y: 33
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6baec2022da7010800000000000000
+      internalID: 1187492487399913205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_44
+      rect:
+        serializedVersion: 2
+        x: 5679
+        y: 31
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db11bb84f68539150800000000000000
+      internalID: 5878139173633462717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_45
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 31
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe09b190b5e1860800000000000000
+      internalID: 7502534123921141669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_46
+      rect:
+        serializedVersion: 2
+        x: 5937
+        y: 33
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20938ef3131f56b50800000000000000
+      internalID: 6585935223927093506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_47
+      rect:
+        serializedVersion: 2
+        x: 6065
+        y: 35
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec3c1b3d98a3f9880800000000000000
+      internalID: -8602092399617784882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_48
+      rect:
+        serializedVersion: 2
+        x: 6191
+        y: 33
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85c9a2848575dac0800000000000000
+      internalID: -3831026696020441718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_smg_run_49
+      rect:
+        serializedVersion: 2
+        x: 6319
+        y: 31
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce36468e555028e0800000000000000
+      internalID: -1720281193187492155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

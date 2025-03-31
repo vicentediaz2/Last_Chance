@@ -1,0 +1,755 @@
+fileFormatVersion: 2
+guid: dd891cdd5d06679438aab69496f435b1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2962835696488063174
+    second: hood_rifle_idle_0
+  - first:
+      213: -982159863031581909
+    second: hood_rifle_idle_1
+  - first:
+      213: 4318846500425916379
+    second: hood_rifle_idle_2
+  - first:
+      213: -1834177440526193944
+    second: hood_rifle_idle_3
+  - first:
+      213: -8233170894109205105
+    second: hood_rifle_idle_4
+  - first:
+      213: -5204831819416394815
+    second: hood_rifle_idle_5
+  - first:
+      213: 8813371982960589461
+    second: hood_rifle_idle_6
+  - first:
+      213: 8839209978364736764
+    second: hood_rifle_idle_7
+  - first:
+      213: -6606642979601953469
+    second: hood_rifle_idle_8
+  - first:
+      213: 8105493733716670482
+    second: hood_rifle_idle_9
+  - first:
+      213: 4033678529618226191
+    second: hood_rifle_idle_10
+  - first:
+      213: -7694200999310558666
+    second: hood_rifle_idle_11
+  - first:
+      213: -6695968867853260746
+    second: hood_rifle_idle_12
+  - first:
+      213: -7480739853242059154
+    second: hood_rifle_idle_13
+  - first:
+      213: -2515981979938225295
+    second: hood_rifle_idle_14
+  - first:
+      213: 4466525390937832564
+    second: hood_rifle_idle_15
+  - first:
+      213: 5001441517938955220
+    second: hood_rifle_idle_16
+  - first:
+      213: 3054108290111576358
+    second: hood_rifle_idle_17
+  - first:
+      213: 6178068909876768982
+    second: hood_rifle_idle_18
+  - first:
+      213: -8727197300809733716
+    second: hood_rifle_idle_19
+  - first:
+      213: -8681252835498819003
+    second: hood_rifle_idle_20
+  - first:
+      213: -9064603480228671015
+    second: hood_rifle_idle_21
+  - first:
+      213: 3652873540100050214
+    second: hood_rifle_idle_22
+  - first:
+      213: -5987599987610212760
+    second: hood_rifle_idle_23
+  - first:
+      213: -5298343116929510328
+    second: hood_rifle_idle_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_rifle_idle_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a4014e5b1e1920800000000000000
+      internalID: 2962835696488063174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_1
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b233b5beecaae52f0800000000000000
+      internalID: -982159863031581909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_2
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf53598200afeb30800000000000000
+      internalID: 4318846500425916379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_3
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eaa662f551bb86e0800000000000000
+      internalID: -1834177440526193944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_4
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d198961b6edbd80800000000000000
+      internalID: -8233170894109205105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_5
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c329006909b4c7b0800000000000000
+      internalID: -5204831819416394815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_6
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59afebd8f136f4a70800000000000000
+      internalID: 8813371982960589461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_7
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4b487a4ae2baa70800000000000000
+      internalID: 8839209978364736764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_8
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d4ffaa63d7054a0800000000000000
+      internalID: -6606642979601953469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_9
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21836572b9f7c7070800000000000000
+      internalID: 8105493733716670482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_10
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0ca30850418af730800000000000000
+      internalID: 4033678529618226191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_11
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a73ade4f4b83590800000000000000
+      internalID: -7694200999310558666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_12
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638288c9ac32313a0800000000000000
+      internalID: -6695968867853260746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_13
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e663666fcb21f2890800000000000000
+      internalID: -7480739853242059154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_14
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1738f7038bf651dd0800000000000000
+      internalID: -2515981979938225295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_15
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbc1bad294cfd30800000000000000
+      internalID: 4466525390937832564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_16
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d354a1df80b86540800000000000000
+      internalID: 5001441517938955220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_17
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6291da9fe4f526a20800000000000000
+      internalID: 3054108290111576358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_18
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0f613d0f8ecb550800000000000000
+      internalID: 6178068909876768982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_19
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ec782b44c2e680800000000000000
+      internalID: -8727197300809733716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_20
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5428db69a8ef58780800000000000000
+      internalID: -8681252835498819003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_21
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d1533b392f043280800000000000000
+      internalID: -9064603480228671015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_22
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 31
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d4617812d91b230800000000000000
+      internalID: 3652873540100050214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_23
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8662c51f885c7eca0800000000000000
+      internalID: -5987599987610212760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_rifle_idle_24
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 31
+        width: 46
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844d749c1018876b0800000000000000
+      internalID: -5298343116929510328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

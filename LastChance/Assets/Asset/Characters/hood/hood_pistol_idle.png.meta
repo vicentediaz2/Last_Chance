@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 603ded211863a5f4984e3667a5099bb5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5147142441871067195
+    second: hood_pistol_idle_0
+  - first:
+      213: -8625575035038575082
+    second: hood_pistol_idle_1
+  - first:
+      213: -2338204905638540799
+    second: hood_pistol_idle_2
+  - first:
+      213: 6636901383421349418
+    second: hood_pistol_idle_3
+  - first:
+      213: 464205424058330232
+    second: hood_pistol_idle_4
+  - first:
+      213: -2285027269079888053
+    second: hood_pistol_idle_5
+  - first:
+      213: 4430911238761758779
+    second: hood_pistol_idle_6
+  - first:
+      213: 5585655736720622881
+    second: hood_pistol_idle_7
+  - first:
+      213: 2824143457427456966
+    second: hood_pistol_idle_8
+  - first:
+      213: 1047867197537747851
+    second: hood_pistol_idle_9
+  - first:
+      213: 8938334439552366810
+    second: hood_pistol_idle_10
+  - first:
+      213: 5164309049015215741
+    second: hood_pistol_idle_11
+  - first:
+      213: 4525357842905439099
+    second: hood_pistol_idle_12
+  - first:
+      213: 2795743449407247878
+    second: hood_pistol_idle_13
+  - first:
+      213: 8553618390511646245
+    second: hood_pistol_idle_14
+  - first:
+      213: 3760547718133781650
+    second: hood_pistol_idle_15
+  - first:
+      213: -1702244709309217133
+    second: hood_pistol_idle_16
+  - first:
+      213: -7396226617737254463
+    second: hood_pistol_idle_17
+  - first:
+      213: -3514971541440497706
+    second: hood_pistol_idle_18
+  - first:
+      213: 4384209151211112928
+    second: hood_pistol_idle_19
+  - first:
+      213: 5867634963027108954
+    second: hood_pistol_idle_20
+  - first:
+      213: -8072123795123445860
+    second: hood_pistol_idle_21
+  - first:
+      213: 7444631043769620063
+    second: hood_pistol_idle_22
+  - first:
+      213: 1889425638615454897
+    second: hood_pistol_idle_23
+  - first:
+      213: -7597844579038562612
+    second: hood_pistol_idle_24
+  - first:
+      213: -2566229760894405369
+    second: hood_pistol_idle_25
+  - first:
+      213: 6078912104557616738
+    second: hood_pistol_idle_26
+  - first:
+      213: -7239027455229263736
+    second: hood_pistol_idle_27
+  - first:
+      213: 2438513840586596694
+    second: hood_pistol_idle_28
+  - first:
+      213: 4802241645589463171
+    second: hood_pistol_idle_29
+  - first:
+      213: 1461713257346619360
+    second: hood_pistol_idle_30
+  - first:
+      213: 2599973367261754083
+    second: hood_pistol_idle_31
+  - first:
+      213: 5862160005265343798
+    second: hood_pistol_idle_32
+  - first:
+      213: -7412147475910714382
+    second: hood_pistol_idle_33
+  - first:
+      213: -1572054203985815215
+    second: hood_pistol_idle_34
+  - first:
+      213: -5543042388529861694
+    second: hood_pistol_idle_35
+  - first:
+      213: -7202303004634087808
+    second: hood_pistol_idle_36
+  - first:
+      213: -4754855385884657467
+    second: hood_pistol_idle_37
+  - first:
+      213: 7060120098060297020
+    second: hood_pistol_idle_38
+  - first:
+      213: -7273581179170109535
+    second: hood_pistol_idle_39
+  - first:
+      213: 6997491577734155833
+    second: hood_pistol_idle_40
+  - first:
+      213: 1210734750754532148
+    second: hood_pistol_idle_41
+  - first:
+      213: -2656120697262830066
+    second: hood_pistol_idle_42
+  - first:
+      213: 6962424979959054027
+    second: hood_pistol_idle_43
+  - first:
+      213: -4447797870265937936
+    second: hood_pistol_idle_44
+  - first:
+      213: 1210576935083255229
+    second: hood_pistol_idle_45
+  - first:
+      213: 2303496181180971655
+    second: hood_pistol_idle_46
+  - first:
+      213: 7798190970933544972
+    second: hood_pistol_idle_47
+  - first:
+      213: 1249758524962500526
+    second: hood_pistol_idle_48
+  - first:
+      213: 4274396645878743883
+    second: hood_pistol_idle_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_pistol_idle_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38cf08b7c25e6740800000000000000
+      internalID: 5147142441871067195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6165c05b43dcb4880800000000000000
+      internalID: -8625575035038575082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ac653d6070d8fd0800000000000000
+      internalID: -2338204905638540799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ec028f4a20b1c50800000000000000
+      internalID: 6636901383421349418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c6ecbaf50317600800000000000000
+      internalID: 464205424058330232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f896c2ec3f940e0800000000000000
+      internalID: -2285027269079888053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_6
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b304ea1bb42cd7d30800000000000000
+      internalID: 4430911238761758779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_7
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1250bd86c4c348d40800000000000000
+      internalID: 5585655736720622881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_8
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c305b6f28f513720800000000000000
+      internalID: 2824143457427456966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_9
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8385011aa5ca8e00800000000000000
+      internalID: 1047867197537747851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_10
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b821c0d75b0c70800000000000000
+      internalID: 8938334439552366810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7623e8e7bf4ba740800000000000000
+      internalID: 5164309049015215741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_12
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b18e35bfc4dce30800000000000000
+      internalID: 4525357842905439099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065b01dad97cc620800000000000000
+      internalID: 2795743449407247878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_14
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f1be6b9e84b670800000000000000
+      internalID: 8553618390511646245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_15
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2941544b936203430800000000000000
+      internalID: 3760547718133781650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_16
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39606dca4796068e0800000000000000
+      internalID: -1702244709309217133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_17
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c96b7bf3135b5990800000000000000
+      internalID: -7396226617737254463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_18
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f4d49100583fc0800000000000000
+      internalID: -3514971541440497706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_19
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e984f69ef6d7dc30800000000000000
+      internalID: 4384209151211112928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_20
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a4ea29e60e6150800000000000000
+      internalID: 5867634963027108954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_21
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f50b02d2e0aff80800000000000000
+      internalID: -8072123795123445860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_22
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56dbbfad74a05760800000000000000
+      internalID: 7444631043769620063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_23
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b490339b96983a10800000000000000
+      internalID: 1889425638615454897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_24
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc677c74c980f8690800000000000000
+      internalID: -7597844579038562612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_25
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7057ad101abe26cd0800000000000000
+      internalID: -2566229760894405369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_26
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e9af40a52ac5450800000000000000
+      internalID: 6078912104557616738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_27
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88082cb22eec98b90800000000000000
+      internalID: -7239027455229263736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_28
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651a9001b6757d120800000000000000
+      internalID: 2438513840586596694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_29
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38082f2555df4a240800000000000000
+      internalID: 4802241645589463171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_30
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e7df9b867c094410800000000000000
+      internalID: 1461713257346619360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_31
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e2fc159006f41420800000000000000
+      internalID: 2599973367261754083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_32
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c75a37739a5150800000000000000
+      internalID: 5862160005265343798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_33
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb98835423c22990800000000000000
+      internalID: -7412147475910714382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_34
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15914c3d701fe2ae0800000000000000
+      internalID: -1572054203985815215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_35
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbaeb0e0582313b0800000000000000
+      internalID: -5543042388529861694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_36
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08e7e04a3974c0c90800000000000000
+      internalID: -7202303004634087808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_37
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8fdf5083c530eb0800000000000000
+      internalID: -4754855385884657467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_38
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33ea74b2d59af160800000000000000
+      internalID: 7060120098060297020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_39
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a74992647c0f0b90800000000000000
+      internalID: -7273581179170109535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_40
+      rect:
+        serializedVersion: 2
+        x: 2609
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec1a104851c1160800000000000000
+      internalID: 6997491577734155833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_41
+      rect:
+        serializedVersion: 2
+        x: 2633
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43be1ff47d46dc010800000000000000
+      internalID: 1210734750754532148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_42
+      rect:
+        serializedVersion: 2
+        x: 2737
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e061f6c40932bd0800000000000000
+      internalID: -2656120697262830066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_43
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcef3c971a08f9060800000000000000
+      internalID: 6962424979959054027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_44
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 31
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff4f06076f3642c0800000000000000
+      internalID: -4447797870265937936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_45
+      rect:
+        serializedVersion: 2
+        x: 2889
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db52becfe45dcc010800000000000000
+      internalID: 1210576935083255229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_46
+      rect:
+        serializedVersion: 2
+        x: 2993
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ab2c48299a7ff10800000000000000
+      internalID: 2303496181180971655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_47
+      rect:
+        serializedVersion: 2
+        x: 3017
+        y: 37
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0807291f5db83c60800000000000000
+      internalID: 7798190970933544972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_48
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 31
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eafe767c1c8085110800000000000000
+      internalID: 1249758524962500526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_pistol_idle_49
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 39
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4349ba4a15b15b30800000000000000
+      internalID: 4274396645878743883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
