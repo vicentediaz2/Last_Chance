@@ -1372,7 +1372,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_pistol_idle_0: 5147142441871067195
+      hood_pistol_idle_1: -8625575035038575082
+      hood_pistol_idle_10: 8938334439552366810
+      hood_pistol_idle_11: 5164309049015215741
+      hood_pistol_idle_12: 4525357842905439099
+      hood_pistol_idle_13: 2795743449407247878
+      hood_pistol_idle_14: 8553618390511646245
+      hood_pistol_idle_15: 3760547718133781650
+      hood_pistol_idle_16: -1702244709309217133
+      hood_pistol_idle_17: -7396226617737254463
+      hood_pistol_idle_18: -3514971541440497706
+      hood_pistol_idle_19: 4384209151211112928
+      hood_pistol_idle_2: -2338204905638540799
+      hood_pistol_idle_20: 5867634963027108954
+      hood_pistol_idle_21: -8072123795123445860
+      hood_pistol_idle_22: 7444631043769620063
+      hood_pistol_idle_23: 1889425638615454897
+      hood_pistol_idle_24: -7597844579038562612
+      hood_pistol_idle_25: -2566229760894405369
+      hood_pistol_idle_26: 6078912104557616738
+      hood_pistol_idle_27: -7239027455229263736
+      hood_pistol_idle_28: 2438513840586596694
+      hood_pistol_idle_29: 4802241645589463171
+      hood_pistol_idle_3: 6636901383421349418
+      hood_pistol_idle_30: 1461713257346619360
+      hood_pistol_idle_31: 2599973367261754083
+      hood_pistol_idle_32: 5862160005265343798
+      hood_pistol_idle_33: -7412147475910714382
+      hood_pistol_idle_34: -1572054203985815215
+      hood_pistol_idle_35: -5543042388529861694
+      hood_pistol_idle_36: -7202303004634087808
+      hood_pistol_idle_37: -4754855385884657467
+      hood_pistol_idle_38: 7060120098060297020
+      hood_pistol_idle_39: -7273581179170109535
+      hood_pistol_idle_4: 464205424058330232
+      hood_pistol_idle_40: 6997491577734155833
+      hood_pistol_idle_41: 1210734750754532148
+      hood_pistol_idle_42: -2656120697262830066
+      hood_pistol_idle_43: 6962424979959054027
+      hood_pistol_idle_44: -4447797870265937936
+      hood_pistol_idle_45: 1210576935083255229
+      hood_pistol_idle_46: 2303496181180971655
+      hood_pistol_idle_47: 7798190970933544972
+      hood_pistol_idle_48: 1249758524962500526
+      hood_pistol_idle_49: 4274396645878743883
+      hood_pistol_idle_5: -2285027269079888053
+      hood_pistol_idle_6: 4430911238761758779
+      hood_pistol_idle_7: 5585655736720622881
+      hood_pistol_idle_8: 2824143457427456966
+      hood_pistol_idle_9: 1047867197537747851
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

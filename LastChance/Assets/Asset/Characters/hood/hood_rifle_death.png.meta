@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_rifle_death_0: -483085923150858564
+      hood_rifle_death_1: 3581473946831775110
+      hood_rifle_death_2: 55310774389913744
+      hood_rifle_death_3: -3879458014439003857
+      hood_rifle_death_4: -8932989388405281888
+      hood_rifle_death_5: -7303618100735205055
+      hood_rifle_death_6: 7643287418249352483
+      hood_rifle_death_7: -1745155480482985665
+      hood_rifle_death_8: 683424365284082615
+      hood_rifle_death_9: -3602266509796093279
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

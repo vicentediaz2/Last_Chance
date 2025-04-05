@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_pistol_slide_0: -8423813528933272511
+      hood_pistol_slide_1: -857009349696615424
+      hood_pistol_slide_2: 3640063496305862989
+      hood_pistol_slide_3: 2009184440558478820
+      hood_pistol_slide_4: 3096099535599070488
+      hood_pistol_slide_5: -6121292128956098606
+      hood_pistol_slide_6: -761489326597725901
+      hood_pistol_slide_7: 2991264286719518687
+      hood_pistol_slide_8: 2236200400122588668
+      hood_pistol_slide_9: -6507726824986054551
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

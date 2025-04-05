@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_smg_dash_0: -7227408094304283549
+      hood_smg_dash_1: -4191161314087776913
+      hood_smg_dash_2: 1000537396547945110
+      hood_smg_dash_3: -1257674675713646844
+      hood_smg_dash_4: -3437805801635175605
+      hood_smg_dash_5: 2807512680777271168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

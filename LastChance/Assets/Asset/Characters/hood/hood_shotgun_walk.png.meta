@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_shotgun_walk_0: 3822171266718524909
+      hood_shotgun_walk_1: -7917780606529901590
+      hood_shotgun_walk_10: -1414342738607504362
+      hood_shotgun_walk_11: 1601040278659385628
+      hood_shotgun_walk_12: 5315340645839137008
+      hood_shotgun_walk_13: -8933583673277109620
+      hood_shotgun_walk_14: -4703850840115164399
+      hood_shotgun_walk_15: -1166252610360807424
+      hood_shotgun_walk_16: 6153327173159908907
+      hood_shotgun_walk_17: -2321800422147408351
+      hood_shotgun_walk_18: -3562853660519029016
+      hood_shotgun_walk_19: 9187848755990635870
+      hood_shotgun_walk_2: -9142946233219177421
+      hood_shotgun_walk_3: 592475059182987187
+      hood_shotgun_walk_4: 5222474876496457154
+      hood_shotgun_walk_5: 6486505017712649923
+      hood_shotgun_walk_6: -1209322987598223776
+      hood_shotgun_walk_7: -1456727964299156524
+      hood_shotgun_walk_8: -6432117789968645979
+      hood_shotgun_walk_9: -3694674423109465998
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

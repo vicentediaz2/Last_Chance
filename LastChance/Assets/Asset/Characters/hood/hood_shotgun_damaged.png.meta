@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_shotgun_damaged_0: 1261625974834461520
+      hood_shotgun_damaged_1: 411331104813538784
+      hood_shotgun_damaged_10: 1485625709522911896
+      hood_shotgun_damaged_11: 165371201529828443
+      hood_shotgun_damaged_12: -5597573471569236187
+      hood_shotgun_damaged_13: -4128961749912194466
+      hood_shotgun_damaged_14: -8276476743727725157
+      hood_shotgun_damaged_15: -297748662599779858
+      hood_shotgun_damaged_16: -5923305405689319166
+      hood_shotgun_damaged_17: -7758962880721693827
+      hood_shotgun_damaged_18: 3171205653480340949
+      hood_shotgun_damaged_19: 256470467203697695
+      hood_shotgun_damaged_2: 6471996227448661314
+      hood_shotgun_damaged_20: 5907352071089447211
+      hood_shotgun_damaged_21: 3328874579307461845
+      hood_shotgun_damaged_22: 8855725309764385492
+      hood_shotgun_damaged_23: -6911058264721985105
+      hood_shotgun_damaged_24: -6066416913108266938
+      hood_shotgun_damaged_3: 6698584728891612406
+      hood_shotgun_damaged_4: -4145845482247993691
+      hood_shotgun_damaged_5: -7886683818348739438
+      hood_shotgun_damaged_6: -7380287732096645570
+      hood_shotgun_damaged_7: -2745428284186383160
+      hood_shotgun_damaged_8: 4316004093889874481
+      hood_shotgun_damaged_9: -8566103474340908935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

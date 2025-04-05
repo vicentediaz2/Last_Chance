@@ -722,7 +722,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_shotgun_sshoot_0: -4773216890291748365
+      hood_shotgun_sshoot_1: -3204770231086213296
+      hood_shotgun_sshoot_10: 7276571790329992629
+      hood_shotgun_sshoot_11: 7642610932137866195
+      hood_shotgun_sshoot_12: 4601680298426817057
+      hood_shotgun_sshoot_13: 2567941176281822628
+      hood_shotgun_sshoot_14: 4208420819085531849
+      hood_shotgun_sshoot_15: -5344668092242950949
+      hood_shotgun_sshoot_16: -1134662064376088723
+      hood_shotgun_sshoot_17: 5501221722365181839
+      hood_shotgun_sshoot_18: -3026259192714161465
+      hood_shotgun_sshoot_19: 7517236389303861994
+      hood_shotgun_sshoot_2: -2594221971418262822
+      hood_shotgun_sshoot_20: -5614962214781269957
+      hood_shotgun_sshoot_21: -6620023218379521506
+      hood_shotgun_sshoot_22: 2353294937598056291
+      hood_shotgun_sshoot_23: 7730454670036592121
+      hood_shotgun_sshoot_3: 5916172210872550620
+      hood_shotgun_sshoot_4: -5896134299752032863
+      hood_shotgun_sshoot_5: 3077978384942680462
+      hood_shotgun_sshoot_6: 6132081929307197288
+      hood_shotgun_sshoot_7: 356226234850056470
+      hood_shotgun_sshoot_8: -8280289056215618544
+      hood_shotgun_sshoot_9: -3458084116985173934
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

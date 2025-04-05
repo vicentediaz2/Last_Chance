@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_shotgun_dash_0: 3169820826906306534
+      hood_shotgun_dash_1: 7987880910161189344
+      hood_shotgun_dash_2: -7805519336037164195
+      hood_shotgun_dash_3: -2718156849363613241
+      hood_shotgun_dash_4: -3618215161454024953
+      hood_shotgun_dash_5: -557298071529409627
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_damaged_0: -1280867557742804441
+      hood_damaged_1: -1437817694514231832
+      hood_damaged_10: -4127541371231607009
+      hood_damaged_11: -7873078509867499090
+      hood_damaged_12: -446657923678902101
+      hood_damaged_13: 8387621453524067842
+      hood_damaged_14: 7052419769259716400
+      hood_damaged_15: -7625206820131883760
+      hood_damaged_16: 4861492651704066300
+      hood_damaged_17: 8504548239592220149
+      hood_damaged_18: 2801715289677542656
+      hood_damaged_19: -1898222518968689399
+      hood_damaged_2: -6409937172484576390
+      hood_damaged_3: 7337331632976693053
+      hood_damaged_4: -3977385827370375467
+      hood_damaged_5: -3250493002466408389
+      hood_damaged_6: 3945460625986702875
+      hood_damaged_7: -6786264066934627025
+      hood_damaged_8: 2919788116493663867
+      hood_damaged_9: -5171532157790534129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

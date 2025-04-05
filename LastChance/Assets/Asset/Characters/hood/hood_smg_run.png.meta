@@ -1372,7 +1372,57 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_smg_run_0: 2622413029099689976
+      hood_smg_run_1: 7430605413477174361
+      hood_smg_run_10: -2405385742239842320
+      hood_smg_run_11: 8518325217117836226
+      hood_smg_run_12: -8160990347586677784
+      hood_smg_run_13: 5441768037863970824
+      hood_smg_run_14: 228921683750273602
+      hood_smg_run_15: 2824084122744384362
+      hood_smg_run_16: 6104860307487550171
+      hood_smg_run_17: 3665773094983301702
+      hood_smg_run_18: -7535971455708265198
+      hood_smg_run_19: -2960686756150543585
+      hood_smg_run_2: -4012076384393730707
+      hood_smg_run_20: 3376396470363401652
+      hood_smg_run_21: 2807704973166170829
+      hood_smg_run_22: 885341328343362648
+      hood_smg_run_23: 5465697491625797159
+      hood_smg_run_24: 5814734396411691068
+      hood_smg_run_25: -769756663370809837
+      hood_smg_run_26: -2076205967886749281
+      hood_smg_run_27: 3633451635399377039
+      hood_smg_run_28: -7849218861141061531
+      hood_smg_run_29: -4822089432567693161
+      hood_smg_run_3: -6414622378473706903
+      hood_smg_run_30: -4705105442128972678
+      hood_smg_run_31: -4834306343617245427
+      hood_smg_run_32: -5683285587282339357
+      hood_smg_run_33: -1272473806414804342
+      hood_smg_run_34: 6208461063516451942
+      hood_smg_run_35: 2574916125965711530
+      hood_smg_run_36: 6481341023136893057
+      hood_smg_run_37: 3707966496932583641
+      hood_smg_run_38: -6323597263911326122
+      hood_smg_run_39: -7030743751645206025
+      hood_smg_run_4: -550021061774339941
+      hood_smg_run_40: 8522083568752574696
+      hood_smg_run_41: 2801143679646890201
+      hood_smg_run_42: 8152639096326565665
+      hood_smg_run_43: 1187492487399913205
+      hood_smg_run_44: 5878139173633462717
+      hood_smg_run_45: 7502534123921141669
+      hood_smg_run_46: 6585935223927093506
+      hood_smg_run_47: -8602092399617784882
+      hood_smg_run_48: -3831026696020441718
+      hood_smg_run_49: -1720281193187492155
+      hood_smg_run_5: 2546480834507127341
+      hood_smg_run_6: -682646075393990132
+      hood_smg_run_7: 5659062557729473947
+      hood_smg_run_8: -561832857593088506
+      hood_smg_run_9: 7128831915832214489
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

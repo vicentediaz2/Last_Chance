@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_pistol_aim_0: 244487671824932326
+      hood_pistol_aim_1: 3767533923698624853
+      hood_pistol_aim_2: -6380852190140904419
+      hood_pistol_aim_3: -2071433064647503773
+      hood_pistol_aim_4: -4699489704233471578
+      hood_pistol_aim_5: -6893451025731268465
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_smg_damage_0: 1077012584319257541
+      hood_smg_damage_1: 1397644647919241232
+      hood_smg_damage_10: -953241907845353519
+      hood_smg_damage_11: -5865106080994556277
+      hood_smg_damage_12: 89292645117102101
+      hood_smg_damage_13: -1884925885662399140
+      hood_smg_damage_14: 1335706636645347572
+      hood_smg_damage_15: 9163315860663172551
+      hood_smg_damage_16: 9147683738638373867
+      hood_smg_damage_17: 1954089367807944009
+      hood_smg_damage_18: -6350556078632379496
+      hood_smg_damage_19: -5553754284019480845
+      hood_smg_damage_2: -6474053605237978049
+      hood_smg_damage_20: -5238541996761515341
+      hood_smg_damage_21: -1949647371708069541
+      hood_smg_damage_22: -5888652074820692954
+      hood_smg_damage_23: 829062265065696002
+      hood_smg_damage_24: -4621583086221333051
+      hood_smg_damage_3: -1222359173415550583
+      hood_smg_damage_4: -1615315914423937943
+      hood_smg_damage_5: -8519152775645694118
+      hood_smg_damage_6: -2419124052647686421
+      hood_smg_damage_7: -2616425567170587619
+      hood_smg_damage_8: -5014011945494290075
+      hood_smg_damage_9: -2315560088166518714
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

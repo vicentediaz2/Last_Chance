@@ -422,7 +422,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_roll_0: 2965402392262784028
+      hood_roll_1: 2819406291792186234
+      hood_roll_10: 80797297557385395
+      hood_roll_11: 2556378858057519726
+      hood_roll_2: -3118869833583772067
+      hood_roll_3: -5460989997191494435
+      hood_roll_4: -956925337831155184
+      hood_roll_5: -4733570136679280427
+      hood_roll_6: -3044041314940895123
+      hood_roll_7: -7002593203744506960
+      hood_roll_8: 5670138241563558420
+      hood_roll_9: -8914283623623528214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -372,7 +372,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_death_0: -6317643673204074323
+      hood_death_1: 7907912588193607084
+      hood_death_2: 3148213647927740379
+      hood_death_3: 2937739114117451688
+      hood_death_4: 7878708933691963828
+      hood_death_5: 5758535200128187097
+      hood_death_6: -3488651589334603049
+      hood_death_7: -5701876362411759985
+      hood_death_8: -850393678125684499
+      hood_death_9: 3552012796905029447
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

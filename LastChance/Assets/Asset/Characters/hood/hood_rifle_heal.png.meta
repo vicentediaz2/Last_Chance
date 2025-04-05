@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_rifle_heal_0: 7805321744284186774
+      hood_rifle_heal_1: 2671395914286629135
+      hood_rifle_heal_10: 3084717632803095098
+      hood_rifle_heal_11: -371347620750254716
+      hood_rifle_heal_12: -6554943892430806782
+      hood_rifle_heal_13: -3868913727665016135
+      hood_rifle_heal_14: 7692593650771534522
+      hood_rifle_heal_15: -1666378578782493349
+      hood_rifle_heal_16: 8373461249831422518
+      hood_rifle_heal_17: 8024208431819343696
+      hood_rifle_heal_18: -855454571001137726
+      hood_rifle_heal_19: 7183161066019356116
+      hood_rifle_heal_2: 4719581323028556827
+      hood_rifle_heal_3: -3936129933966254737
+      hood_rifle_heal_4: 3864919896414437162
+      hood_rifle_heal_5: 9182824166832099715
+      hood_rifle_heal_6: 7669203737752703395
+      hood_rifle_heal_7: 724252747937034943
+      hood_rifle_heal_8: -8882896109063267055
+      hood_rifle_heal_9: 3546225858381400917
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

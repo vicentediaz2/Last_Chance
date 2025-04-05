@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_smg_idle_0: -7027163967034254597
+      hood_smg_idle_1: 7115644067403961565
+      hood_smg_idle_10: -4523081233290452289
+      hood_smg_idle_11: -7747827133629024295
+      hood_smg_idle_12: 9005349699173765815
+      hood_smg_idle_13: 2163908664710559138
+      hood_smg_idle_14: 2282160316155674194
+      hood_smg_idle_15: -4642675599005084997
+      hood_smg_idle_16: -428192759606780659
+      hood_smg_idle_17: 3443150479973166460
+      hood_smg_idle_18: 1750028100582576675
+      hood_smg_idle_19: -5193155088920394730
+      hood_smg_idle_2: 8686938442223843118
+      hood_smg_idle_20: 4891041835200065268
+      hood_smg_idle_21: -2168167098838095679
+      hood_smg_idle_22: 53043212745947844
+      hood_smg_idle_23: 4596795509323159123
+      hood_smg_idle_24: 8385969516460993996
+      hood_smg_idle_3: 7913868188636497997
+      hood_smg_idle_4: -5974878905704167685
+      hood_smg_idle_5: -762204514936914727
+      hood_smg_idle_6: -9071909269421381929
+      hood_smg_idle_7: -1225415103675961578
+      hood_smg_idle_8: 8816248876942588013
+      hood_smg_idle_9: 7733337884821013203
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

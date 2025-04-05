@@ -1122,7 +1122,47 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_pistol_walk_0: -4753312635432074718
+      hood_pistol_walk_1: 8140523511983427570
+      hood_pistol_walk_10: -7577174690341716497
+      hood_pistol_walk_11: -5059622355527387560
+      hood_pistol_walk_12: -33296241549590501
+      hood_pistol_walk_13: -6020479439781248700
+      hood_pistol_walk_14: 4769797661642295124
+      hood_pistol_walk_15: -1833970759431962765
+      hood_pistol_walk_16: 2483736257541730232
+      hood_pistol_walk_17: -894947460538313469
+      hood_pistol_walk_18: -6250131200564268851
+      hood_pistol_walk_19: 845389261213769430
+      hood_pistol_walk_2: -1325042505709957696
+      hood_pistol_walk_20: -1377978225629394984
+      hood_pistol_walk_21: 578880269899285354
+      hood_pistol_walk_22: -6747664761948453724
+      hood_pistol_walk_23: -4037757005545025770
+      hood_pistol_walk_24: 846822828857559040
+      hood_pistol_walk_25: -3806695107043795267
+      hood_pistol_walk_26: 1214239384610797756
+      hood_pistol_walk_27: -2948231581166824649
+      hood_pistol_walk_28: 7141960717637002159
+      hood_pistol_walk_29: 3789436032701681209
+      hood_pistol_walk_3: 7192622389881232544
+      hood_pistol_walk_30: 6406394940406818149
+      hood_pistol_walk_31: -5207977271901440330
+      hood_pistol_walk_32: -5388420120259929347
+      hood_pistol_walk_33: -4800376347901043115
+      hood_pistol_walk_34: -6322647554659879114
+      hood_pistol_walk_35: 3182987159942329365
+      hood_pistol_walk_36: -7706932540233236371
+      hood_pistol_walk_37: -449883625927390258
+      hood_pistol_walk_38: -5130550900513169157
+      hood_pistol_walk_39: -630499647738694988
+      hood_pistol_walk_4: 4595246449476700444
+      hood_pistol_walk_5: 8415483741030739713
+      hood_pistol_walk_6: -2033754286948627850
+      hood_pistol_walk_7: 7142419972149897133
+      hood_pistol_walk_8: 6316059009347476045
+      hood_pistol_walk_9: 5355878950988485491
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

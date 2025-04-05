@@ -197,7 +197,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_shotgun_crouch_0: -2862863555253121518
+      hood_shotgun_crouch_1: 6088565780002663951
+      hood_shotgun_crouch_2: -7377200568909621922
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

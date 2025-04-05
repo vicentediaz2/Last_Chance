@@ -297,7 +297,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_rifle_reload_0: -5184413119429936447
+      hood_rifle_reload_1: 5439298428128100523
+      hood_rifle_reload_2: -6446723458032616453
+      hood_rifle_reload_3: -5187353113332935029
+      hood_rifle_reload_4: 1148742966476501165
+      hood_rifle_reload_5: 3611019957866215455
+      hood_rifle_reload_6: -2107146803745366962
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

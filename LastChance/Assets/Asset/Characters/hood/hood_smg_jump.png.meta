@@ -272,7 +272,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_smg_jump_0: 6068037578567879456
+      hood_smg_jump_1: -3639291089413796968
+      hood_smg_jump_2: 8278814360452914372
+      hood_smg_jump_3: -6849452391561144635
+      hood_smg_jump_4: -6569056937650939418
+      hood_smg_jump_5: -1901450045954764431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

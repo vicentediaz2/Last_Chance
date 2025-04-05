@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_heal_0: 6335398543258636341
+      hood_heal_1: -6024643109188452321
+      hood_heal_10: -5997529180009026308
+      hood_heal_11: 8767432969605745682
+      hood_heal_12: -2631788065570059285
+      hood_heal_13: -4010682666498009946
+      hood_heal_14: 6893721021315427537
+      hood_heal_15: 4458947216006899204
+      hood_heal_16: -7529632694223494580
+      hood_heal_17: 5142243512295039060
+      hood_heal_18: 800593583901454226
+      hood_heal_19: 4229122504348715106
+      hood_heal_2: 6829784474674736466
+      hood_heal_20: -7133925863943429789
+      hood_heal_21: -7222568625313875633
+      hood_heal_22: -4186705984942090995
+      hood_heal_23: -673517028959299168
+      hood_heal_24: 987519736995325255
+      hood_heal_3: -2710216857381719066
+      hood_heal_4: -61472402326783753
+      hood_heal_5: 3993037369853187763
+      hood_heal_6: -2157455576395044972
+      hood_heal_7: 4350705310019848898
+      hood_heal_8: 8164532754366947390
+      hood_heal_9: -7355148122190982579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

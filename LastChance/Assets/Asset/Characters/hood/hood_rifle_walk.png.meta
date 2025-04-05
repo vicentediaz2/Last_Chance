@@ -622,7 +622,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_rifle_walk_0: -2591208631013129096
+      hood_rifle_walk_1: 2361622357016290971
+      hood_rifle_walk_10: 2568797742992639179
+      hood_rifle_walk_11: -4877452730318928961
+      hood_rifle_walk_12: 8793665637956133862
+      hood_rifle_walk_13: 6513287768823700310
+      hood_rifle_walk_14: -4119521511368140957
+      hood_rifle_walk_15: 1384264527374897797
+      hood_rifle_walk_16: -3809163630884390263
+      hood_rifle_walk_17: -2581197568433979137
+      hood_rifle_walk_18: 7163591686104858731
+      hood_rifle_walk_19: 6731757433040693072
+      hood_rifle_walk_2: -7895065457407947599
+      hood_rifle_walk_3: 6640811530324369785
+      hood_rifle_walk_4: 4425169699045351024
+      hood_rifle_walk_5: 5772870966033288506
+      hood_rifle_walk_6: -6336283306481625321
+      hood_rifle_walk_7: -4321221224628856371
+      hood_rifle_walk_8: -3575392219372628629
+      hood_rifle_walk_9: -5952755716190581197
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

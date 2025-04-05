@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      hood_rifle_damaged_0: 6173807817796978618
+      hood_rifle_damaged_1: -4251003473396262403
+      hood_rifle_damaged_10: 8226071959157720270
+      hood_rifle_damaged_11: 4025088864727287534
+      hood_rifle_damaged_12: -9003645546257403911
+      hood_rifle_damaged_13: -3155150630032628014
+      hood_rifle_damaged_14: 4498668588571752851
+      hood_rifle_damaged_15: -2470629087406432661
+      hood_rifle_damaged_16: 2226227774873062174
+      hood_rifle_damaged_17: -1459658892314517445
+      hood_rifle_damaged_18: -7180764400637413115
+      hood_rifle_damaged_19: -6608487961922504271
+      hood_rifle_damaged_2: 316646367383775276
+      hood_rifle_damaged_20: -7795062828004986958
+      hood_rifle_damaged_21: -2398337664879219455
+      hood_rifle_damaged_22: -5678489739991220584
+      hood_rifle_damaged_23: -5751536949238847504
+      hood_rifle_damaged_24: -1734720407975635679
+      hood_rifle_damaged_3: -4781247610999260366
+      hood_rifle_damaged_4: -2900773179967641485
+      hood_rifle_damaged_5: 3405305491884057373
+      hood_rifle_damaged_6: -5496908323890593880
+      hood_rifle_damaged_7: -1712039393066470849
+      hood_rifle_damaged_8: -8922179247494412893
+      hood_rifle_damaged_9: -1686028644537192639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
