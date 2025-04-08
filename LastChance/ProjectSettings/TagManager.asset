@@ -71,5 +71,11 @@ TagManager:
   - name: Puerta Final
     uniqueID: 1326842035
     locked: 0
+  - name: opciones_pausa
+    uniqueID: 32819545
+    locked: 0
+  - name: opciones_salir
+    uniqueID: 3054698653
+    locked: 0
   m_RenderingLayers:
   - Default

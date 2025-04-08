@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class Menu : MonoBehaviour
 {
     [SerializeField] string escenaInicial = null;
-    [SerializeField] string escenaInstrucciones = null;
+    [SerializeField] string escenaMusic = null;
     [SerializeField] string escenaCreditos = null;
 
     public void Iniciar()
@@ -15,10 +15,10 @@ public class Menu : MonoBehaviour
         SceneManager.LoadScene(escenaInicial);
     }
 
-    public void Instrucciones()
+    public void Music()
     {
-        print("Botón Instrucciones");
-        SceneManager.LoadScene(escenaInstrucciones);
+        print("Botón Musica");
+        SceneManager.LoadScene(escenaMusic);
     }
 
     public void Creditos()
