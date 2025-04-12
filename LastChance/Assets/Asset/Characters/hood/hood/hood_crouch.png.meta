@@ -1,31 +1,16 @@
 fileFormatVersion: 2
-guid: 4e28e0d20d3694d4b8c020e68484c1b9
+guid: 9a50359f21d8d6249ab1d974e63af98b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7616230622789145968
-    second: hood_idle_0
+      213: 594665775459813843
+    second: hood_crouch_0
   - first:
-      213: 3905838688185247699
-    second: hood_idle_1
+      213: 8439208226200992407
+    second: hood_crouch_1
   - first:
-      213: 122374960382175445
-    second: hood_idle_2
-  - first:
-      213: -3047556823728532990
-    second: hood_idle_3
-  - first:
-      213: -1810809388874279989
-    second: hood_idle_4
-  - first:
-      213: 8034844010417611653
-    second: hood_idle_5
-  - first:
-      213: -7622954195250917012
-    second: hood_idle_6
-  - first:
-      213: -1808171408203176249
-    second: hood_idle_7
+      213: -1324351916601008747
+    second: hood_crouch_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -95,7 +80,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
@@ -134,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_idle_0
+      name: hood_crouch_0
       rect:
         serializedVersion: 2
-        x: 83
+        x: 81
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -149,20 +134,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0759cce166942b960800000000000000
-      internalID: 7616230622789145968
+      spriteID: 3d94d524f5da04800800000000000000
+      internalID: 594665775459813843
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_idle_1
+      name: hood_crouch_1
       rect:
         serializedVersion: 2
         x: 275
         y: 63
-        width: 26
-        height: 40
+        width: 30
+        height: 38
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -171,20 +156,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d76247c793543630800000000000000
-      internalID: 3905838688185247699
+      spriteID: 79ab34c3b271e1570800000000000000
+      internalID: 8439208226200992407
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_idle_2
+      name: hood_crouch_2
       rect:
         serializedVersion: 2
         x: 467
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,118 +178,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5d86bfac063c2b100800000000000000
-      internalID: 122374960382175445
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_idle_3
-      rect:
-        serializedVersion: 2
-        x: 659
-        y: 63
-        width: 26
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 202d7d82737e4b5d0800000000000000
-      internalID: -3047556823728532990
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_idle_4
-      rect:
-        serializedVersion: 2
-        x: 851
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bc3d4347476bed6e0800000000000000
-      internalID: -1810809388874279989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_idle_5
-      rect:
-        serializedVersion: 2
-        x: 1043
-        y: 63
-        width: 26
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 583ed9a9e00818f60800000000000000
-      internalID: 8034844010417611653
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_idle_6
-      rect:
-        serializedVersion: 2
-        x: 1235
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c61defc2c83d53690800000000000000
-      internalID: -7622954195250917012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_idle_7
-      rect:
-        serializedVersion: 2
-        x: 1427
-        y: 63
-        width: 26
-        height: 40
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7c628013fa518e6e0800000000000000
-      internalID: -1808171408203176249
+      spriteID: 59d9365d2f4fe9de0800000000000000
+      internalID: -1324351916601008747
       vertices: []
       indices: 
       edges: []
@@ -323,14 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_idle_0: 7616230622789145968
-      hood_idle_1: 3905838688185247699
-      hood_idle_2: 122374960382175445
-      hood_idle_3: -3047556823728532990
-      hood_idle_4: -1810809388874279989
-      hood_idle_5: 8034844010417611653
-      hood_idle_6: -7622954195250917012
-      hood_idle_7: -1808171408203176249
+      hood_crouch_0: 594665775459813843
+      hood_crouch_1: 8439208226200992407
+      hood_crouch_2: -1324351916601008747
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

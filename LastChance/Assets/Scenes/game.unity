@@ -7347,8 +7347,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 1934717383
-  m_SortingLayer: 6
+  m_SortingLayerID: 1916730191
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -343670490556062560, guid: 8cf0f81a1421e704cbed59e8896c4058, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -7370,7 +7370,7 @@ Transform:
   m_GameObject: {fileID: 1373979872}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -3.05, y: -6.55, z: 0.07472207}
+  m_LocalPosition: {x: -2.28, y: -7.19, z: 0.07472207}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -12015,12 +12015,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2137269214}
-  - component: {fileID: 2137269216}
+  - component: {fileID: 2137269220}
   - component: {fileID: 2137269213}
   - component: {fileID: 2137269215}
   - component: {fileID: 2137269219}
   - component: {fileID: 2137269218}
-  - component: {fileID: 2137269217}
   m_Layer: 0
   m_Name: hood_idle_0
   m_TagString: Untagged
@@ -12092,7 +12091,7 @@ Transform:
   m_GameObject: {fileID: 2137269212}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.78, y: -2.7, z: 0}
+  m_LocalPosition: {x: -7.9, y: -1.95, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12120,35 +12119,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &2137269216
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2137269212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b162d5320726e614eb5b735b98f7138a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidad: 5
-  offset: {x: 0, y: 2, z: -10}
---- !u!114 &2137269217
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2137269212}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1eb6acaa5c68a4478a5f152283c563f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  velocidad: 3
-  fuerzaSalto: 12.6
-  offset: {x: 0, y: 2, z: -10}
 --- !u!61 &2137269218
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -12183,17 +12153,17 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0, y: 1.4008802}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
+    pivot: {x: 0.5, y: 0}
     oldSize: {x: 1.625, y: 2.625}
     newSize: {x: 0.26, y: 0.42}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 1.625, y: 2.625}
+  m_Size: {x: 1.625, y: 2.435239}
   m_EdgeRadius: 0
 --- !u!50 &2137269219
 Rigidbody2D:
@@ -12222,6 +12192,21 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!114 &2137269220
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2137269212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b162d5320726e614eb5b735b98f7138a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  velocidad: 2
+  fuerzaSalto: 9
+  offset: {x: 0, y: 2, z: -10}
 --- !u!1 &2144106627
 GameObject:
   m_ObjectHideFlags: 0
