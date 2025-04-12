@@ -1,82 +1,67 @@
 fileFormatVersion: 2
-guid: a9b5a0ad1225e154c8970fd0a15fb007
+guid: 2e00059a8ef79654e8ffc303961d948b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6335398543258636341
-    second: hood_heal_0
+      213: 8956578840277904575
+    second: hood_crouch_walk_0
   - first:
-      213: -6024643109188452321
-    second: hood_heal_1
+      213: -2343025452191211300
+    second: hood_crouch_walk_1
   - first:
-      213: 6829784474674736466
-    second: hood_heal_2
+      213: 2502801094961147829
+    second: hood_crouch_walk_2
   - first:
-      213: -2710216857381719066
-    second: hood_heal_3
+      213: -8763698807444707986
+    second: hood_crouch_walk_3
   - first:
-      213: -61472402326783753
-    second: hood_heal_4
+      213: -4675461591242547482
+    second: hood_crouch_walk_4
   - first:
-      213: 3993037369853187763
-    second: hood_heal_5
+      213: -6423362344839950316
+    second: hood_crouch_walk_5
   - first:
-      213: -2157455576395044972
-    second: hood_heal_6
+      213: -6052823412854215275
+    second: hood_crouch_walk_6
   - first:
-      213: 4350705310019848898
-    second: hood_heal_7
+      213: 7964893720662319030
+    second: hood_crouch_walk_7
   - first:
-      213: 8164532754366947390
-    second: hood_heal_8
+      213: 3106954128097467644
+    second: hood_crouch_walk_8
   - first:
-      213: -7355148122190982579
-    second: hood_heal_9
+      213: 6659467072391438424
+    second: hood_crouch_walk_9
   - first:
-      213: -5997529180009026308
-    second: hood_heal_10
+      213: 6984485283754151626
+    second: hood_crouch_walk_10
   - first:
-      213: 8767432969605745682
-    second: hood_heal_11
+      213: -4471937915405382647
+    second: hood_crouch_walk_11
   - first:
-      213: -2631788065570059285
-    second: hood_heal_12
+      213: -8532266610715515616
+    second: hood_crouch_walk_12
   - first:
-      213: -4010682666498009946
-    second: hood_heal_13
+      213: 3714583326135773024
+    second: hood_crouch_walk_13
   - first:
-      213: 6893721021315427537
-    second: hood_heal_14
+      213: 8411873372311261392
+    second: hood_crouch_walk_14
   - first:
-      213: 4458947216006899204
-    second: hood_heal_15
+      213: 5587953734483553023
+    second: hood_crouch_walk_15
   - first:
-      213: -7529632694223494580
-    second: hood_heal_16
+      213: 1468372806004947759
+    second: hood_crouch_walk_16
   - first:
-      213: 5142243512295039060
-    second: hood_heal_17
+      213: -1416120408136399036
+    second: hood_crouch_walk_17
   - first:
-      213: 800593583901454226
-    second: hood_heal_18
+      213: -6218765933505355965
+    second: hood_crouch_walk_18
   - first:
-      213: 4229122504348715106
-    second: hood_heal_19
-  - first:
-      213: -7133925863943429789
-    second: hood_heal_20
-  - first:
-      213: -7222568625313875633
-    second: hood_heal_21
-  - first:
-      213: -4186705984942090995
-    second: hood_heal_22
-  - first:
-      213: -673517028959299168
-    second: hood_heal_23
-  - first:
-      213: 987519736995325255
-    second: hood_heal_24
+      213: -4284984779644742837
+    second: hood_crouch_walk_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -147,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -185,13 +170,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_heal_0
+      name: hood_crouch_walk_0
       rect:
         serializedVersion: 2
         x: 83
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -200,20 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5305571a86bdbe750800000000000000
-      internalID: 6335398543258636341
+      spriteID: fbc6b8150092c4c70800000000000000
+      internalID: 8956578840277904575
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_1
+      name: hood_crouch_walk_1
       rect:
         serializedVersion: 2
-        x: 273
+        x: 275
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -222,20 +207,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f10415a130b246ca0800000000000000
-      internalID: -6024643109188452321
+      spriteID: cd0a17ed3c6eb7fd0800000000000000
+      internalID: -2343025452191211300
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_2
+      name: hood_crouch_walk_2
       rect:
         serializedVersion: 2
-        x: 465
+        x: 467
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -244,20 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 25d27714bc448ce50800000000000000
-      internalID: 6829784474674736466
+      spriteID: 5bf2e90e55cbbb220800000000000000
+      internalID: 2502801094961147829
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_3
+      name: hood_crouch_walk_3
       rect:
         serializedVersion: 2
-        x: 657
+        x: 659
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -266,20 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6e3bc77a020636ad0800000000000000
-      internalID: -2710216857381719066
+      spriteID: e656ebfdd56116680800000000000000
+      internalID: -8763698807444707986
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_4
+      name: hood_crouch_walk_4
       rect:
         serializedVersion: 2
         x: 851
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -288,20 +273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7f872dffc2b952ff0800000000000000
-      internalID: -61472402326783753
+      spriteID: 6ee5105547c6d1fb0800000000000000
+      internalID: -4675461591242547482
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_5
+      name: hood_crouch_walk_5
       rect:
         serializedVersion: 2
         x: 1043
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -310,20 +295,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3b695f4f45e1a6730800000000000000
-      internalID: 3993037369853187763
+      spriteID: 410d134daf1abd6a0800000000000000
+      internalID: -6423362344839950316
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_6
+      name: hood_crouch_walk_6
       rect:
         serializedVersion: 2
-        x: 1233
+        x: 1235
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,20 +317,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 497a94e759d2f02e0800000000000000
-      internalID: -2157455576395044972
+      spriteID: 59d28acdc2d000ca0800000000000000
+      internalID: -6052823412854215275
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_7
+      name: hood_crouch_walk_7
       rect:
         serializedVersion: 2
-        x: 1425
+        x: 1427
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -354,20 +339,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2ca832ead6fc06c30800000000000000
-      internalID: 4350705310019848898
+      spriteID: 6bf11dd93acf88e60800000000000000
+      internalID: 7964893720662319030
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_8
+      name: hood_crouch_walk_8
       rect:
         serializedVersion: 2
-        x: 1617
+        x: 1619
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -376,20 +361,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e306515584f3e4170800000000000000
-      internalID: 8164532754366947390
+      spriteID: cfcdea2715e1e1b20800000000000000
+      internalID: 3106954128097467644
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_9
+      name: hood_crouch_walk_9
       rect:
         serializedVersion: 2
         x: 1811
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -398,20 +383,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d42dc6a80c34de990800000000000000
-      internalID: -7355148122190982579
+      spriteID: 8506d4bd40e2b6c50800000000000000
+      internalID: 6659467072391438424
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_10
+      name: hood_crouch_walk_10
       rect:
         serializedVersion: 2
         x: 2003
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -420,20 +405,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cfca58facfe74cca0800000000000000
-      internalID: -5997529180009026308
+      spriteID: ace0c153c50ede060800000000000000
+      internalID: 6984485283754151626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_11
+      name: hood_crouch_walk_11
       rect:
         serializedVersion: 2
-        x: 2193
+        x: 2195
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -442,20 +427,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 21c066185dd2ca970800000000000000
-      internalID: 8767432969605745682
+      spriteID: 90c49a6c82c70f1c0800000000000000
+      internalID: -4471937915405382647
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_12
+      name: hood_crouch_walk_12
       rect:
         serializedVersion: 2
-        x: 2385
+        x: 2387
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -464,20 +449,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: beb859bb2b20a7bd0800000000000000
-      internalID: -2631788065570059285
+      spriteID: 025206339bc479980800000000000000
+      internalID: -8532266610715515616
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_13
+      name: hood_crouch_walk_13
       rect:
         serializedVersion: 2
-        x: 2577
+        x: 2579
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -486,20 +471,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6a4d1944d513758c0800000000000000
-      internalID: -4010682666498009946
+      spriteID: 06769eabad9dc8330800000000000000
+      internalID: 3714583326135773024
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_14
+      name: hood_crouch_walk_14
       rect:
         serializedVersion: 2
         x: 2771
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -508,20 +493,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dc26209eba6baf50800000000000000
-      internalID: 6893721021315427537
+      spriteID: 0d01e2c934afcb470800000000000000
+      internalID: 8411873372311261392
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_15
+      name: hood_crouch_walk_15
       rect:
         serializedVersion: 2
         x: 2963
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -530,20 +515,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 406ee425edc51ed30800000000000000
-      internalID: 4458947216006899204
+      spriteID: ffaa535b0566c8d40800000000000000
+      internalID: 5587953734483553023
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_16
+      name: hood_crouch_walk_16
       rect:
         serializedVersion: 2
-        x: 3153
+        x: 3155
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -552,20 +537,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c4224a355fe518790800000000000000
-      internalID: -7529632694223494580
+      spriteID: f2bb4cb8945b06410800000000000000
+      internalID: 1468372806004947759
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_17
+      name: hood_crouch_walk_17
       rect:
         serializedVersion: 2
-        x: 3345
+        x: 3347
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -574,20 +559,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 45027eaca3bec5740800000000000000
-      internalID: 5142243512295039060
+      spriteID: 44749d1edfde85ce0800000000000000
+      internalID: -1416120408136399036
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_18
+      name: hood_crouch_walk_18
       rect:
         serializedVersion: 2
-        x: 3537
+        x: 3539
         y: 63
-        width: 28
-        height: 42
+        width: 30
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -596,20 +581,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 29f27e17f974c1b00800000000000000
-      internalID: 800593583901454226
+      spriteID: 34fdc18f45182b9a0800000000000000
+      internalID: -6218765933505355965
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_heal_19
+      name: hood_crouch_walk_19
       rect:
         serializedVersion: 2
         x: 3731
         y: 63
-        width: 26
-        height: 42
+        width: 30
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -618,118 +603,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 268c057c28cd0ba30800000000000000
-      internalID: 4229122504348715106
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_heal_20
-      rect:
-        serializedVersion: 2
-        x: 3923
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3612ea159343ffc90800000000000000
-      internalID: -7133925863943429789
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_heal_21
-      rect:
-        serializedVersion: 2
-        x: 4113
-        y: 63
-        width: 28
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f49f8422a1844cb90800000000000000
-      internalID: -7222568625313875633
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_heal_22
-      rect:
-        serializedVersion: 2
-        x: 4305
-        y: 63
-        width: 28
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d05568cb615d5e5c0800000000000000
-      internalID: -4186705984942090995
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_heal_23
-      rect:
-        serializedVersion: 2
-        x: 4497
-        y: 63
-        width: 28
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a954b2a4df27a6f0800000000000000
-      internalID: -673517028959299168
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_heal_24
-      rect:
-        serializedVersion: 2
-        x: 4691
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7452b4cf7ff54bd00800000000000000
-      internalID: 987519736995325255
+      spriteID: b43d155bb0da884c0800000000000000
+      internalID: -4284984779644742837
       vertices: []
       indices: 
       edges: []
@@ -748,31 +623,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_heal_0: 6335398543258636341
-      hood_heal_1: -6024643109188452321
-      hood_heal_10: -5997529180009026308
-      hood_heal_11: 8767432969605745682
-      hood_heal_12: -2631788065570059285
-      hood_heal_13: -4010682666498009946
-      hood_heal_14: 6893721021315427537
-      hood_heal_15: 4458947216006899204
-      hood_heal_16: -7529632694223494580
-      hood_heal_17: 5142243512295039060
-      hood_heal_18: 800593583901454226
-      hood_heal_19: 4229122504348715106
-      hood_heal_2: 6829784474674736466
-      hood_heal_20: -7133925863943429789
-      hood_heal_21: -7222568625313875633
-      hood_heal_22: -4186705984942090995
-      hood_heal_23: -673517028959299168
-      hood_heal_24: 987519736995325255
-      hood_heal_3: -2710216857381719066
-      hood_heal_4: -61472402326783753
-      hood_heal_5: 3993037369853187763
-      hood_heal_6: -2157455576395044972
-      hood_heal_7: 4350705310019848898
-      hood_heal_8: 8164532754366947390
-      hood_heal_9: -7355148122190982579
+      hood_crouch_walk_0: 8956578840277904575
+      hood_crouch_walk_1: -2343025452191211300
+      hood_crouch_walk_10: 6984485283754151626
+      hood_crouch_walk_11: -4471937915405382647
+      hood_crouch_walk_12: -8532266610715515616
+      hood_crouch_walk_13: 3714583326135773024
+      hood_crouch_walk_14: 8411873372311261392
+      hood_crouch_walk_15: 5587953734483553023
+      hood_crouch_walk_16: 1468372806004947759
+      hood_crouch_walk_17: -1416120408136399036
+      hood_crouch_walk_18: -6218765933505355965
+      hood_crouch_walk_19: -4284984779644742837
+      hood_crouch_walk_2: 2502801094961147829
+      hood_crouch_walk_3: -8763698807444707986
+      hood_crouch_walk_4: -4675461591242547482
+      hood_crouch_walk_5: -6423362344839950316
+      hood_crouch_walk_6: -6052823412854215275
+      hood_crouch_walk_7: 7964893720662319030
+      hood_crouch_walk_8: 3106954128097467644
+      hood_crouch_walk_9: 6659467072391438424
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

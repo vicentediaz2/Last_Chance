@@ -1,55 +1,43 @@
 fileFormatVersion: 2
-guid: 5e6407549abdb4949a7a4b7b9a13ba6b
+guid: 24a52ce4d073ad648b7373d2a8cb5c15
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -614935217770658689
-    second: hood_walk_0
+      213: 2965402392262784028
+    second: hood_roll_0
   - first:
-      213: -2329609868817425538
-    second: hood_walk_1
+      213: 2819406291792186234
+    second: hood_roll_1
   - first:
-      213: 2883513646038715540
-    second: hood_walk_2
+      213: -3118869833583772067
+    second: hood_roll_2
   - first:
-      213: -3224437342641458342
-    second: hood_walk_3
+      213: -5460989997191494435
+    second: hood_roll_3
   - first:
-      213: 3688900177812874339
-    second: hood_walk_4
+      213: -956925337831155184
+    second: hood_roll_4
   - first:
-      213: -6491135796039641582
-    second: hood_walk_5
+      213: -4733570136679280427
+    second: hood_roll_5
   - first:
-      213: -1128809413436700385
-    second: hood_walk_6
+      213: -3044041314940895123
+    second: hood_roll_6
   - first:
-      213: -5357033342260593116
-    second: hood_walk_7
+      213: -7002593203744506960
+    second: hood_roll_7
   - first:
-      213: 9204027722604670347
-    second: hood_walk_8
+      213: 5670138241563558420
+    second: hood_roll_8
   - first:
-      213: 7772707947698028405
-    second: hood_walk_9
+      213: -8914283623623528214
+    second: hood_roll_9
   - first:
-      213: -2988032211379463669
-    second: hood_walk_10
+      213: 80797297557385395
+    second: hood_roll_10
   - first:
-      213: -6147905911625857069
-    second: hood_walk_11
-  - first:
-      213: -5240870172884217935
-    second: hood_walk_12
-  - first:
-      213: 8061375667578614388
-    second: hood_walk_13
-  - first:
-      213: 7448100447221420815
-    second: hood_walk_14
-  - first:
-      213: -5099641358823888972
-    second: hood_walk_15
+      213: 2556378858057519726
+    second: hood_roll_11
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -82,7 +70,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -96,7 +84,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -158,13 +146,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_walk_0
+      name: hood_roll_0
       rect:
         serializedVersion: 2
-        x: 83
+        x: 79
         y: 63
-        width: 26
-        height: 44
+        width: 36
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +161,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f7407e07daf4777f0800000000000000
-      internalID: -614935217770658689
+      spriteID: c14baeea3c9372920800000000000000
+      internalID: 2965402392262784028
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_1
+      name: hood_roll_1
       rect:
         serializedVersion: 2
-        x: 275
+        x: 273
         y: 63
-        width: 26
-        height: 42
+        width: 34
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -195,20 +183,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e7b94e7ca209bafd0800000000000000
-      internalID: -2329609868817425538
+      spriteID: a7b46c3a51b802720800000000000000
+      internalID: 2819406291792186234
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_2
+      name: hood_roll_2
       rect:
         serializedVersion: 2
-        x: 467
-        y: 63
-        width: 26
-        height: 44
+        x: 465
+        y: 69
+        width: 40
+        height: 28
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -217,20 +205,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 49c0121326c440820800000000000000
-      internalID: 2883513646038715540
+      spriteID: d5ebe8c296c87b4d0800000000000000
+      internalID: -3118869833583772067
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_3
+      name: hood_roll_3
       rect:
         serializedVersion: 2
         x: 659
-        y: 63
-        width: 26
-        height: 42
+        y: 69
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -239,20 +227,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a53f957125f7043d0800000000000000
-      internalID: -3224437342641458342
+      spriteID: dd48077f78aa634b0800000000000000
+      internalID: -5460989997191494435
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_4
+      name: hood_roll_4
       rect:
         serializedVersion: 2
         x: 851
         y: 63
-        width: 26
-        height: 44
+        width: 34
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -261,20 +249,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3646966ca2b913330800000000000000
-      internalID: 3688900177812874339
+      spriteID: 01ad00aa97158b2f0800000000000000
+      internalID: -956925337831155184
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_5
+      name: hood_roll_5
       rect:
         serializedVersion: 2
-        x: 1043
+        x: 1045
         y: 63
-        width: 26
-        height: 42
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -283,20 +271,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2161c30926adae5a0800000000000000
-      internalID: -6491135796039641582
+      spriteID: 5d095db4a0bfe4eb0800000000000000
+      internalID: -4733570136679280427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_6
+      name: hood_roll_6
       rect:
         serializedVersion: 2
         x: 1235
         y: 63
-        width: 26
-        height: 44
+        width: 34
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -305,20 +293,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f190df4b1d9a550f0800000000000000
-      internalID: -1128809413436700385
+      spriteID: d60c5555d8461c5d0800000000000000
+      internalID: -3044041314940895123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_7
+      name: hood_roll_7
       rect:
         serializedVersion: 2
-        x: 1427
+        x: 1421
         y: 63
-        width: 26
-        height: 42
+        width: 34
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -327,20 +315,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 42e32a8de8ef7a5b0800000000000000
-      internalID: -5357033342260593116
+      spriteID: 0bb7e30259ac1de90800000000000000
+      internalID: -7002593203744506960
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_8
+      name: hood_roll_8
       rect:
         serializedVersion: 2
-        x: 1619
+        x: 1617
         y: 63
-        width: 26
-        height: 44
+        width: 32
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -349,20 +337,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b8de2bcd2764bbf70800000000000000
-      internalID: 9204027722604670347
+      spriteID: 41201c360b060be40800000000000000
+      internalID: 5670138241563558420
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_9
+      name: hood_roll_9
       rect:
         serializedVersion: 2
-        x: 1811
+        x: 1809
         y: 63
-        width: 26
-        height: 42
+        width: 28
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -371,20 +359,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 57f756562b43edb60800000000000000
-      internalID: 7772707947698028405
+      spriteID: ae076d2364a1a4480800000000000000
+      internalID: -8914283623623528214
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_10
+      name: hood_roll_10
       rect:
         serializedVersion: 2
-        x: 2003
+        x: 1999
         y: 63
-        width: 26
-        height: 44
+        width: 30
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,14 +381,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b0a5d47f8806886d0800000000000000
-      internalID: -2988032211379463669
+      spriteID: 3b038bbc6bc0f1100800000000000000
+      internalID: 80797297557385395
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_walk_11
+      name: hood_roll_11
       rect:
         serializedVersion: 2
         x: 2195
@@ -415,96 +403,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3d7440975204eaaa0800000000000000
-      internalID: -6147905911625857069
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_walk_12
-      rect:
-        serializedVersion: 2
-        x: 2387
-        y: 63
-        width: 26
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1bfcb475850b447b0800000000000000
-      internalID: -5240870172884217935
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_walk_13
-      rect:
-        serializedVersion: 2
-        x: 2579
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 472300b6572cfdf60800000000000000
-      internalID: 8061375667578614388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_walk_14
-      rect:
-        serializedVersion: 2
-        x: 2771
-        y: 63
-        width: 26
-        height: 44
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f039f0025e7fc5760800000000000000
-      internalID: 7448100447221420815
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_walk_15
-      rect:
-        serializedVersion: 2
-        x: 2963
-        y: 63
-        width: 26
-        height: 42
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b76965043f6a39b0800000000000000
-      internalID: -5099641358823888972
+      spriteID: e6256d1f6051a7320800000000000000
+      internalID: 2556378858057519726
       vertices: []
       indices: 
       edges: []
@@ -523,22 +423,18 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_walk_0: -614935217770658689
-      hood_walk_1: -2329609868817425538
-      hood_walk_10: -2988032211379463669
-      hood_walk_11: -6147905911625857069
-      hood_walk_12: -5240870172884217935
-      hood_walk_13: 8061375667578614388
-      hood_walk_14: 7448100447221420815
-      hood_walk_15: -5099641358823888972
-      hood_walk_2: 2883513646038715540
-      hood_walk_3: -3224437342641458342
-      hood_walk_4: 3688900177812874339
-      hood_walk_5: -6491135796039641582
-      hood_walk_6: -1128809413436700385
-      hood_walk_7: -5357033342260593116
-      hood_walk_8: 9204027722604670347
-      hood_walk_9: 7772707947698028405
+      hood_roll_0: 2965402392262784028
+      hood_roll_1: 2819406291792186234
+      hood_roll_10: 80797297557385395
+      hood_roll_11: 2556378858057519726
+      hood_roll_2: -3118869833583772067
+      hood_roll_3: -5460989997191494435
+      hood_roll_4: -956925337831155184
+      hood_roll_5: -4733570136679280427
+      hood_roll_6: -3044041314940895123
+      hood_roll_7: -7002593203744506960
+      hood_roll_8: 5670138241563558420
+      hood_roll_9: -8914283623623528214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

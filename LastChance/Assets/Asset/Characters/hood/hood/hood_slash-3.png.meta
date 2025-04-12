@@ -1,22 +1,19 @@
 fileFormatVersion: 2
-guid: e2ae59e3b44db9f4a9ffc35c6c909bcc
+guid: 9a0289b62d6c27f499c88b8661779654
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3156682181667396586
-    second: hood_slash-1_0
+      213: -2842810148186959057
+    second: hood_slash-3_0
   - first:
-      213: 768265281969535965
-    second: hood_slash-1_1
+      213: -2878524522875167453
+    second: hood_slash-3_1
   - first:
-      213: -5831030413641319970
-    second: hood_slash-1_2
+      213: -373934537680721048
+    second: hood_slash-3_2
   - first:
-      213: 5385288415779233702
-    second: hood_slash-1_3
-  - first:
-      213: -1611835423638986307
-    second: hood_slash-1_4
+      213: -1904036597575713980
+    second: hood_slash-3_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -87,7 +84,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -125,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_slash-1_0
+      name: hood_slash-3_0
       rect:
         serializedVersion: 2
-        x: 83
+        x: 71
         y: 63
-        width: 30
-        height: 40
+        width: 42
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -140,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 614e8e4d7463134d0800000000000000
-      internalID: -3156682181667396586
+      spriteID: f23d0796b3f4c88d0800000000000000
+      internalID: -2842810148186959057
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-1_1
+      name: hood_slash-3_1
       rect:
         serializedVersion: 2
-        x: 255
+        x: 273
         y: 63
-        width: 98
-        height: 52
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -162,42 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ddb3f09143d69aa00800000000000000
-      internalID: 768265281969535965
+      spriteID: 32d56c0923d6d08d0800000000000000
+      internalID: -2878524522875167453
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-1_2
+      name: hood_slash-3_2
       rect:
         serializedVersion: 2
-        x: 531
-        y: 103
-        width: 16
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed9f860abb4041fa0800000000000000
-      internalID: -5831030413641319970
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_slash-1_3
-      rect:
-        serializedVersion: 2
-        x: 445
+        x: 467
         y: 63
-        width: 48
-        height: 34
+        width: 44
+        height: 56
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -206,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6af1c8b18436cba40800000000000000
-      internalID: 5385288415779233702
+      spriteID: 86b6a48e4848fcaf0800000000000000
+      internalID: -373934537680721048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-1_4
+      name: hood_slash-3_3
       rect:
         serializedVersion: 2
-        x: 533
-        y: 71
-        width: 18
-        height: 30
+        x: 655
+        y: 63
+        width: 46
+        height: 54
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -228,8 +203,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db16b99d83c91a9e0800000000000000
-      internalID: -1611835423638986307
+      spriteID: 44bf7227dc08395e0800000000000000
+      internalID: -1904036597575713980
       vertices: []
       indices: 
       edges: []
@@ -248,11 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_slash-1_0: -3156682181667396586
-      hood_slash-1_1: 768265281969535965
-      hood_slash-1_2: -5831030413641319970
-      hood_slash-1_3: 5385288415779233702
-      hood_slash-1_4: -1611835423638986307
+      hood_slash-3_0: -2842810148186959057
+      hood_slash-3_1: -2878524522875167453
+      hood_slash-3_2: -373934537680721048
+      hood_slash-3_3: -1904036597575713980
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
