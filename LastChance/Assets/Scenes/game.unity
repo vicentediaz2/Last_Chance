@@ -1023,7 +1023,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 295067434}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: ControlPausa, Assembly-CSharp
         m_MethodName: BotonExit
         m_Mode: 1
@@ -1464,7 +1464,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 295067434}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: ControlPausa, Assembly-CSharp
         m_MethodName: CancelarSalirAlInicio
         m_Mode: 1
@@ -6254,7 +6254,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 295067434}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: ControlPausa, Assembly-CSharp
         m_MethodName: BotonAtras
         m_Mode: 1
@@ -11628,7 +11628,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1898211661}
   - {fileID: 473566395}
   - {fileID: 1112060700}
   - {fileID: 284487296}
@@ -11761,7 +11760,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 295067434}
+      - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: ControlPausa, Assembly-CSharp
         m_MethodName: ConfirmarSalirAlInicio
         m_Mode: 1
@@ -13334,11 +13333,11 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2137269214}
-  - component: {fileID: 2137269220}
   - component: {fileID: 2137269213}
   - component: {fileID: 2137269215}
   - component: {fileID: 2137269219}
   - component: {fileID: 2137269218}
+  - component: {fileID: 2137269220}
   m_Layer: 0
   m_Name: hood_idle_0
   m_TagString: Untagged
@@ -13625,4 +13624,3 @@ SceneRoots:
   - {fileID: 2137269214}
   - {fileID: 1887683695}
   - {fileID: 1656197990}
-  - {fileID: 295067435}
