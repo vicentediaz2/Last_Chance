@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: a9b5a0ad1225e154c8970fd0a15fb007
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6335398543258636341
+    second: hood_heal_0
+  - first:
+      213: -6024643109188452321
+    second: hood_heal_1
+  - first:
+      213: 6829784474674736466
+    second: hood_heal_2
+  - first:
+      213: -2710216857381719066
+    second: hood_heal_3
+  - first:
+      213: -61472402326783753
+    second: hood_heal_4
+  - first:
+      213: 3993037369853187763
+    second: hood_heal_5
+  - first:
+      213: -2157455576395044972
+    second: hood_heal_6
+  - first:
+      213: 4350705310019848898
+    second: hood_heal_7
+  - first:
+      213: 8164532754366947390
+    second: hood_heal_8
+  - first:
+      213: -7355148122190982579
+    second: hood_heal_9
+  - first:
+      213: -5997529180009026308
+    second: hood_heal_10
+  - first:
+      213: 8767432969605745682
+    second: hood_heal_11
+  - first:
+      213: -2631788065570059285
+    second: hood_heal_12
+  - first:
+      213: -4010682666498009946
+    second: hood_heal_13
+  - first:
+      213: 6893721021315427537
+    second: hood_heal_14
+  - first:
+      213: 4458947216006899204
+    second: hood_heal_15
+  - first:
+      213: -7529632694223494580
+    second: hood_heal_16
+  - first:
+      213: 5142243512295039060
+    second: hood_heal_17
+  - first:
+      213: 800593583901454226
+    second: hood_heal_18
+  - first:
+      213: 4229122504348715106
+    second: hood_heal_19
+  - first:
+      213: -7133925863943429789
+    second: hood_heal_20
+  - first:
+      213: -7222568625313875633
+    second: hood_heal_21
+  - first:
+      213: -4186705984942090995
+    second: hood_heal_22
+  - first:
+      213: -673517028959299168
+    second: hood_heal_23
+  - first:
+      213: 987519736995325255
+    second: hood_heal_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hood_heal_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5305571a86bdbe750800000000000000
+      internalID: 6335398543258636341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10415a130b246ca0800000000000000
+      internalID: -6024643109188452321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_2
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d27714bc448ce50800000000000000
+      internalID: 6829784474674736466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3bc77a020636ad0800000000000000
+      internalID: -2710216857381719066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f872dffc2b952ff0800000000000000
+      internalID: -61472402326783753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_5
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b695f4f45e1a6730800000000000000
+      internalID: 3993037369853187763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_6
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a94e759d2f02e0800000000000000
+      internalID: -2157455576395044972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_7
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca832ead6fc06c30800000000000000
+      internalID: 4350705310019848898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_8
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e306515584f3e4170800000000000000
+      internalID: 8164532754366947390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42dc6a80c34de990800000000000000
+      internalID: -7355148122190982579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_10
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfca58facfe74cca0800000000000000
+      internalID: -5997529180009026308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_11
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21c066185dd2ca970800000000000000
+      internalID: 8767432969605745682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_12
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb859bb2b20a7bd0800000000000000
+      internalID: -2631788065570059285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_13
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a4d1944d513758c0800000000000000
+      internalID: -4010682666498009946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_14
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc26209eba6baf50800000000000000
+      internalID: 6893721021315427537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_15
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406ee425edc51ed30800000000000000
+      internalID: 4458947216006899204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_16
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4224a355fe518790800000000000000
+      internalID: -7529632694223494580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_17
+      rect:
+        serializedVersion: 2
+        x: 3345
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45027eaca3bec5740800000000000000
+      internalID: 5142243512295039060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_18
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f27e17f974c1b00800000000000000
+      internalID: 800593583901454226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_19
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 268c057c28cd0ba30800000000000000
+      internalID: 4229122504348715106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_20
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3612ea159343ffc90800000000000000
+      internalID: -7133925863943429789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_21
+      rect:
+        serializedVersion: 2
+        x: 4113
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49f8422a1844cb90800000000000000
+      internalID: -7222568625313875633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_22
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05568cb615d5e5c0800000000000000
+      internalID: -4186705984942090995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_23
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a954b2a4df27a6f0800000000000000
+      internalID: -673517028959299168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_heal_24
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7452b4cf7ff54bd00800000000000000
+      internalID: 987519736995325255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      hood_heal_0: 6335398543258636341
+      hood_heal_1: -6024643109188452321
+      hood_heal_10: -5997529180009026308
+      hood_heal_11: 8767432969605745682
+      hood_heal_12: -2631788065570059285
+      hood_heal_13: -4010682666498009946
+      hood_heal_14: 6893721021315427537
+      hood_heal_15: 4458947216006899204
+      hood_heal_16: -7529632694223494580
+      hood_heal_17: 5142243512295039060
+      hood_heal_18: 800593583901454226
+      hood_heal_19: 4229122504348715106
+      hood_heal_2: 6829784474674736466
+      hood_heal_20: -7133925863943429789
+      hood_heal_21: -7222568625313875633
+      hood_heal_22: -4186705984942090995
+      hood_heal_23: -673517028959299168
+      hood_heal_24: 987519736995325255
+      hood_heal_3: -2710216857381719066
+      hood_heal_4: -61472402326783753
+      hood_heal_5: 3993037369853187763
+      hood_heal_6: -2157455576395044972
+      hood_heal_7: 4350705310019848898
+      hood_heal_8: 8164532754366947390
+      hood_heal_9: -7355148122190982579
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

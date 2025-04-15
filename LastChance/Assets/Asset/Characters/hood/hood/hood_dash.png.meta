@@ -1,19 +1,25 @@
 fileFormatVersion: 2
-guid: 9a0289b62d6c27f499c88b8661779654
+guid: 7b440a79d8a7ae145a987de79634bda9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2842810148186959057
-    second: hood_slash-3_0
+      213: 868137590230657191
+    second: hood_dash_0
   - first:
-      213: -2878524522875167453
-    second: hood_slash-3_1
+      213: -2397029480588426451
+    second: hood_dash_1
   - first:
-      213: -373934537680721048
-    second: hood_slash-3_2
+      213: -988589672842218327
+    second: hood_dash_2
   - first:
-      213: -1904036597575713980
-    second: hood_slash-3_3
+      213: 3790036923492118302
+    second: hood_dash_3
+  - first:
+      213: 3828538739671513308
+    second: hood_dash_4
+  - first:
+      213: 2634604486399678258
+    second: hood_dash_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -84,7 +90,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,10 +128,54 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_slash-3_0
+      name: hood_dash_0
       rect:
         serializedVersion: 2
-        x: 71
+        x: 83
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8acd9e98e3c0c00800000000000000
+      internalID: 868137590230657191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_dash_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d23436d236a0cbed0800000000000000
+      internalID: -2397029480588426451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_dash_2
+      rect:
+        serializedVersion: 2
+        x: 459
         y: 63
         width: 42
         height: 36
@@ -137,20 +187,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f23d0796b3f4c88d0800000000000000
-      internalID: -2842810148186959057
+      spriteID: 9a4be992ee2d742f0800000000000000
+      internalID: -988589672842218327
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-3_1
+      name: hood_dash_3
       rect:
         serializedVersion: 2
-        x: 273
+        x: 653
         y: 63
-        width: 46
-        height: 54
+        width: 42
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +209,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 32d56c0923d6d08d0800000000000000
-      internalID: -2878524522875167453
+      spriteID: e1fac5e508ae89430800000000000000
+      internalID: 3790036923492118302
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-3_2
+      name: hood_dash_4
       rect:
         serializedVersion: 2
-        x: 467
+        x: 843
         y: 63
-        width: 44
-        height: 56
+        width: 42
+        height: 36
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86b6a48e4848fcaf0800000000000000
-      internalID: -373934537680721048
+      spriteID: cd831f203b3b12530800000000000000
+      internalID: 3828538739671513308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_slash-3_3
+      name: hood_dash_5
       rect:
         serializedVersion: 2
-        x: 655
+        x: 1043
         y: 63
-        width: 46
-        height: 54
+        width: 26
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,8 +253,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 44bf7227dc08395e0800000000000000
-      internalID: -1904036597575713980
+      spriteID: 237d08752deff8420800000000000000
+      internalID: 2634604486399678258
       vertices: []
       indices: 
       edges: []
@@ -223,10 +273,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_slash-3_0: -2842810148186959057
-      hood_slash-3_1: -2878524522875167453
-      hood_slash-3_2: -373934537680721048
-      hood_slash-3_3: -1904036597575713980
+      hood_dash_0: 868137590230657191
+      hood_dash_1: -2397029480588426451
+      hood_dash_2: -988589672842218327
+      hood_dash_3: 3790036923492118302
+      hood_dash_4: 3828538739671513308
+      hood_dash_5: 2634604486399678258
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

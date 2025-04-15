@@ -1,67 +1,67 @@
 fileFormatVersion: 2
-guid: 811e1893fc8a41340961aab8cfd5310c
+guid: 5e49224081f787344a80ebf64235f274
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3626964404579244292
-    second: hood_run_0
+      213: -1280867557742804441
+    second: hood_damaged_0
   - first:
-      213: 4376240924606012691
-    second: hood_run_1
+      213: -1437817694514231832
+    second: hood_damaged_1
   - first:
-      213: -3152573142341032968
-    second: hood_run_2
+      213: -6409937172484576390
+    second: hood_damaged_2
   - first:
-      213: -2334296968070099428
-    second: hood_run_3
+      213: 7337331632976693053
+    second: hood_damaged_3
   - first:
-      213: 5501861587231150757
-    second: hood_run_4
+      213: -3977385827370375467
+    second: hood_damaged_4
   - first:
-      213: -6418808324286759898
-    second: hood_run_5
+      213: -3250493002466408389
+    second: hood_damaged_5
   - first:
-      213: 1595703856863701105
-    second: hood_run_6
+      213: 3945460625986702875
+    second: hood_damaged_6
   - first:
-      213: 3529229423213684063
-    second: hood_run_7
+      213: -6786264066934627025
+    second: hood_damaged_7
   - first:
-      213: 5573111941998868386
-    second: hood_run_8
+      213: 2919788116493663867
+    second: hood_damaged_8
   - first:
-      213: 3169551980064736721
-    second: hood_run_9
+      213: -5171532157790534129
+    second: hood_damaged_9
   - first:
-      213: 6520069010188375226
-    second: hood_run_10
+      213: -4127541371231607009
+    second: hood_damaged_10
   - first:
-      213: 3773307622091686559
-    second: hood_run_11
+      213: -7873078509867499090
+    second: hood_damaged_11
   - first:
-      213: -6077221565934479164
-    second: hood_run_12
+      213: -446657923678902101
+    second: hood_damaged_12
   - first:
-      213: -7873375127018067673
-    second: hood_run_13
+      213: 8387621453524067842
+    second: hood_damaged_13
   - first:
-      213: 1520877484257792615
-    second: hood_run_14
+      213: 7052419769259716400
+    second: hood_damaged_14
   - first:
-      213: -8803509829504249809
-    second: hood_run_15
+      213: -7625206820131883760
+    second: hood_damaged_15
   - first:
-      213: -2213863173051451429
-    second: hood_run_16
+      213: 4861492651704066300
+    second: hood_damaged_16
   - first:
-      213: -1096252370944131344
-    second: hood_run_17
+      213: 8504548239592220149
+    second: hood_damaged_17
   - first:
-      213: 3898688047447807777
-    second: hood_run_18
+      213: 2801715289677542656
+    second: hood_damaged_18
   - first:
-      213: -357424855111621985
-    second: hood_run_19
+      213: -1898222518968689399
+    second: hood_damaged_19
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -132,7 +132,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -170,13 +170,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hood_run_0
+      name: hood_damaged_0
       rect:
         serializedVersion: 2
-        x: 81
+        x: 83
         y: 63
-        width: 34
-        height: 34
+        width: 26
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -185,86 +185,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cf6611c271f6aadc0800000000000000
-      internalID: -3626964404579244292
+      spriteID: 7220b681eb1793ee0800000000000000
+      internalID: -1280867557742804441
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_1
+      name: hood_damaged_1
       rect:
         serializedVersion: 2
-        x: 271
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31d1ba24fe78bbc30800000000000000
-      internalID: 4376240924606012691
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_2
-      rect:
-        serializedVersion: 2
-        x: 463
-        y: 67
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f3635a1e6fcf34d0800000000000000
-      internalID: -3152573142341032968
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_3
-      rect:
-        serializedVersion: 2
-        x: 655
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1e09e17649ea9fd0800000000000000
-      internalID: -2334296968070099428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_4
-      rect:
-        serializedVersion: 2
-        x: 847
+        x: 273
         y: 63
-        width: 36
-        height: 30
+        width: 28
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,20 +207,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5a29746a6f98a5c40800000000000000
-      internalID: 5501861587231150757
+      spriteID: 8e545babc68db0ce0800000000000000
+      internalID: -1437817694514231832
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_5
+      name: hood_damaged_2
       rect:
         serializedVersion: 2
-        x: 1041
+        x: 467
         y: 63
-        width: 34
-        height: 34
+        width: 26
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -295,86 +229,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 62c319d56dfcbe6a0800000000000000
-      internalID: -6418808324286759898
+      spriteID: a7b2c795a145b07a0800000000000000
+      internalID: -6409937172484576390
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_6
+      name: hood_damaged_3
       rect:
         serializedVersion: 2
-        x: 1231
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 178e4131434152610800000000000000
-      internalID: 1595703856863701105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_7
-      rect:
-        serializedVersion: 2
-        x: 1423
-        y: 67
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f55228536775af030800000000000000
-      internalID: 3529229423213684063
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_8
-      rect:
-        serializedVersion: 2
-        x: 1615
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2a7745c98cba75d40800000000000000
-      internalID: 5573111941998868386
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_9
-      rect:
-        serializedVersion: 2
-        x: 1807
+        x: 659
         y: 63
-        width: 36
-        height: 30
+        width: 26
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -383,20 +251,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d505ec9bb28cfb20800000000000000
-      internalID: 3169551980064736721
+      spriteID: d3700dece3073d560800000000000000
+      internalID: 7337331632976693053
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_10
+      name: hood_damaged_4
       rect:
         serializedVersion: 2
-        x: 2001
+        x: 851
         y: 63
-        width: 34
-        height: 34
+        width: 26
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -405,86 +273,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ab49f4f4830fb7a50800000000000000
-      internalID: 6520069010188375226
+      spriteID: 5d66ae0c9ac7dc8c0800000000000000
+      internalID: -3977385827370375467
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_11
+      name: hood_damaged_5
       rect:
         serializedVersion: 2
-        x: 2191
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f928c0b5a4b7d5430800000000000000
-      internalID: 3773307622091686559
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_12
-      rect:
-        serializedVersion: 2
-        x: 2383
-        y: 67
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c8d12d2f2f59aba0800000000000000
-      internalID: -6077221565934479164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_13
-      rect:
-        serializedVersion: 2
-        x: 2575
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 72921b279072cb290800000000000000
-      internalID: -7873375127018067673
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_14
-      rect:
-        serializedVersion: 2
-        x: 2767
+        x: 1043
         y: 63
-        width: 36
-        height: 30
+        width: 26
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,20 +295,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7625314930e3b1510800000000000000
-      internalID: 1520877484257792615
+      spriteID: b38c81b06dde3e2d0800000000000000
+      internalID: -3250493002466408389
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_15
+      name: hood_damaged_6
       rect:
         serializedVersion: 2
-        x: 2961
+        x: 1233
         y: 63
-        width: 34
-        height: 34
+        width: 28
+        height: 42
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -515,86 +317,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f205dbbf376a3d580800000000000000
-      internalID: -8803509829504249809
+      spriteID: b1e4a3f098711c630800000000000000
+      internalID: 3945460625986702875
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hood_run_16
+      name: hood_damaged_7
       rect:
         serializedVersion: 2
-        x: 3151
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd7f2f47c27c641e0800000000000000
-      internalID: -2213863173051451429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_17
-      rect:
-        serializedVersion: 2
-        x: 3343
-        y: 67
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fef1bdd64459c0f0800000000000000
-      internalID: -1096252370944131344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_18
-      rect:
-        serializedVersion: 2
-        x: 3535
-        y: 65
-        width: 36
-        height: 34
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 127103e7f1cea1630800000000000000
-      internalID: 3898688047447807777
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hood_run_19
-      rect:
-        serializedVersion: 2
-        x: 3727
+        x: 1427
         y: 63
-        width: 36
-        height: 30
+        width: 26
+        height: 40
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -603,8 +339,272 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f922d2decfb2a0bf0800000000000000
-      internalID: -357424855111621985
+      spriteID: f252d5a49c852d1a0800000000000000
+      internalID: -6786264066934627025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_8
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ef20f72db258820800000000000000
+      internalID: 2919788116493663867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_9
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06c26607e60b38b0800000000000000
+      internalID: -5171532157790534129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_10
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17e204ddf608b6c0800000000000000
+      internalID: -4127541371231607009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_11
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea106920fc43db290800000000000000
+      internalID: -7873078509867499090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_12
+      rect:
+        serializedVersion: 2
+        x: 2387
+        y: 63
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba861032cf62dc9f0800000000000000
+      internalID: -446657923678902101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_13
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2066fbfb541d66470800000000000000
+      internalID: 8387621453524067842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_14
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03feaa13a6a3fd160800000000000000
+      internalID: 7052419769259716400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_15
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01537231cc2dd2690800000000000000
+      internalID: -7625206820131883760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_16
+      rect:
+        serializedVersion: 2
+        x: 3153
+        y: 63
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf02ef63fcd777340800000000000000
+      internalID: 4861492651704066300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_17
+      rect:
+        serializedVersion: 2
+        x: 3347
+        y: 63
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5611c9099360670800000000000000
+      internalID: 8504548239592220149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_18
+      rect:
+        serializedVersion: 2
+        x: 3539
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005b20b3631b1e620800000000000000
+      internalID: 2801715289677542656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hood_damaged_19
+      rect:
+        serializedVersion: 2
+        x: 3731
+        y: 63
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d593c1da828a5e0800000000000000
+      internalID: -1898222518968689399
       vertices: []
       indices: 
       edges: []
@@ -623,26 +623,26 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      hood_run_0: -3626964404579244292
-      hood_run_1: 4376240924606012691
-      hood_run_10: 6520069010188375226
-      hood_run_11: 3773307622091686559
-      hood_run_12: -6077221565934479164
-      hood_run_13: -7873375127018067673
-      hood_run_14: 1520877484257792615
-      hood_run_15: -8803509829504249809
-      hood_run_16: -2213863173051451429
-      hood_run_17: -1096252370944131344
-      hood_run_18: 3898688047447807777
-      hood_run_19: -357424855111621985
-      hood_run_2: -3152573142341032968
-      hood_run_3: -2334296968070099428
-      hood_run_4: 5501861587231150757
-      hood_run_5: -6418808324286759898
-      hood_run_6: 1595703856863701105
-      hood_run_7: 3529229423213684063
-      hood_run_8: 5573111941998868386
-      hood_run_9: 3169551980064736721
+      hood_damaged_0: -1280867557742804441
+      hood_damaged_1: -1437817694514231832
+      hood_damaged_10: -4127541371231607009
+      hood_damaged_11: -7873078509867499090
+      hood_damaged_12: -446657923678902101
+      hood_damaged_13: 8387621453524067842
+      hood_damaged_14: 7052419769259716400
+      hood_damaged_15: -7625206820131883760
+      hood_damaged_16: 4861492651704066300
+      hood_damaged_17: 8504548239592220149
+      hood_damaged_18: 2801715289677542656
+      hood_damaged_19: -1898222518968689399
+      hood_damaged_2: -6409937172484576390
+      hood_damaged_3: 7337331632976693053
+      hood_damaged_4: -3977385827370375467
+      hood_damaged_5: -3250493002466408389
+      hood_damaged_6: 3945460625986702875
+      hood_damaged_7: -6786264066934627025
+      hood_damaged_8: 2919788116493663867
+      hood_damaged_9: -5171532157790534129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
