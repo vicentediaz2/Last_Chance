@@ -11,6 +11,7 @@ public class ControlPausa : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            Debug.Log("Tecla detectada");
             AlternarPausa();
         }
     }

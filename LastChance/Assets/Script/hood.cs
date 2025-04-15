@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class Movimiento : MonoBehaviour
+public class hood : MonoBehaviour
 {
     public float velocidad = 2f;
     public float fuerzaSalto = 9f;
@@ -56,7 +56,7 @@ public class Movimiento : MonoBehaviour
         }
         transform.position += movimiento;
         camara.transform.position = transform.position + offset;
-        Debug.Log(Mathf.Abs(movX));
+        //Debug.Log(Mathf.Abs(movX));
         animator.SetFloat("speed", Mathf.Abs(movX));
 
 
