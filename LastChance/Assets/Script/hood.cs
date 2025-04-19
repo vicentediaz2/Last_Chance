@@ -4,7 +4,8 @@ public class hood : MonoBehaviour
 {
     public float velocidad = 2f;
     public float fuerzaSalto = 9f;
-    private int deathCount = 0;
+    public int deathCount = 0;
+    public int puntaje = 0;
     public Vector3 offset = new Vector3(0f, 2f, -10f);
     Animator animator;
     private Rigidbody2D rb;
@@ -67,6 +68,7 @@ public class hood : MonoBehaviour
         if (collision.gameObject.CompareTag("fall") || collision.gameObject.CompareTag("enemigo"))
         {
             deathCount++;
+            puntaje -= 100;
             transform.position = posicionInicial;
             Debug.Log("Muertes: +1" );
         }
@@ -78,7 +80,10 @@ public class hood : MonoBehaviour
             enSuelo = true;
         }
 
-
-
+        if (collision.gameObject.CompareTag("moneda"))
+        {
+            puntaje += 100;
+            Destroy(collision.gameObject);
+        }
     }
 }
