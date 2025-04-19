@@ -5,12 +5,26 @@ public class ControlPausa : MonoBehaviour
 {
     public GameObject canvasPausa;
     public GameObject canvasConfirmacion;
+    public AudioSource sonidoPausa;
     private bool juegoPausado = false;
+
+    void Start()
+    {
+        if (sonidoPausa != null)
+        {
+            sonidoPausa.ignoreListenerPause = true; // Esto permite que el sonido funcione aunque el tiempo esté pausado
+        }
+    }
 
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape))
         {
+            if (sonidoPausa != null)
+            {
+                sonidoPausa.Play();
+            }
+
             Debug.Log("Tecla detectada");
             AlternarPausa();
         }
