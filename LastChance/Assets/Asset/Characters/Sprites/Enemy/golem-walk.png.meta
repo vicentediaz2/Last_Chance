@@ -118,7 +118,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -132,7 +132,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -155,7 +155,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -166,6 +166,19 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 4
     buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      golem-walk_0: -6334208311441612485
+      golem-walk_1: -970771038122585988
+      golem-walk_10: 7827116820910458424
+      golem-walk_11: 1742545552581715964
+      golem-walk_12: 1743465673778093233
+      golem-walk_13: -6600339368041595629
+      golem-walk_14: 5769489804987829422
+      golem-walk_15: -5610633767889205587
+      golem-walk_16: 7897673664116043065
+      golem-walk_17: 2195019178637954734
+      golem-walk_18: -8957038879018294817
+      golem-walk_19: 9035673909636530093
+      golem-walk_2: 5523433964998399635
+      golem-walk_20: -87462193086197342
+      golem-walk_21: -2922472701359156747
+      golem-walk_22: -8319792419612845942
+      golem-walk_23: -2959859212466308062
+      golem-walk_24: -2301587733989981178
+      golem-walk_25: -3644257701275475726
+      golem-walk_26: 6158124776211517759
+      golem-walk_27: 862171834868981314
+      golem-walk_3: -9007912182098956158
+      golem-walk_4: -6185684705883856611
+      golem-walk_5: 8693377872308639268
+      golem-walk_6: -957524385554857118
+      golem-walk_7: 414845840855382131
+      golem-walk_8: 667545266833562224
+      golem-walk_9: -7088313035701170268
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

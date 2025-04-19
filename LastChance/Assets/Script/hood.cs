@@ -4,6 +4,7 @@ public class hood : MonoBehaviour
 {
     public float velocidad = 2f;
     public float fuerzaSalto = 9f;
+    private int deathCount = 0;
     public Vector3 offset = new Vector3(0f, 2f, -10f);
     Animator animator;
     private Rigidbody2D rb;
@@ -63,11 +64,21 @@ public class hood : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {
+        if (collision.gameObject.CompareTag("fall") || collision.gameObject.CompareTag("enemigo"))
+        {
+            deathCount++;
+            transform.position = posicionInicial;
+            Debug.Log("Muertes: +1" );
+        }
+
+
         if (collision.gameObject.CompareTag("Suelo"))
         {
             animator.SetBool("IsJumping", false);
             enSuelo = true;
         }
+
+
 
     }
 }

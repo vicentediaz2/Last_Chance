@@ -86,9 +86,6 @@ public class EnemyController : MonoBehaviour
         // Detener movimiento
         rb.linearVelocity = Vector2.zero;
         
-        // Configurar estado
-        isAttacking = true;
-        
         // Activar animación de ataque
         animator.SetBool("isAttacking", true);
         
@@ -99,7 +96,6 @@ public class EnemyController : MonoBehaviour
         // Dejamos esto vacío por ahora
         
         // Terminar ataque
-        isAttacking = false;
         animator.SetBool("isAttacking", false);
     }
 
