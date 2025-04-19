@@ -16,7 +16,7 @@ public class EnemyController : MonoBehaviour
     public float attackRange = 1.5f;
     public float attackCooldown = 2f;
     private float lastAttackTime;
-    private bool isAttacking = false;
+    //private bool //isAttacking = false;
     private bool isDead = false;
 
     // Start is called before the first frame update
@@ -54,10 +54,10 @@ public class EnemyController : MonoBehaviour
             StartCoroutine(Attack());
         }
         // Si no está atacando, moverse hacia el jugador
-        else if (!isAttacking)
+/*         else if (!isAttacking)
         {
             MoveTowardsPlayer();
-        }
+        } */
     }
 
     void MoveTowardsPlayer()
@@ -75,7 +75,7 @@ public class EnemyController : MonoBehaviour
         transform.position = new Vector3(transform.position.x, initialY, transform.position.z);
         
         // Asegurarse que la animación de caminar está activa
-        animator.SetBool("isAttacking", false);
+        //animator.SetBool("isAttacking", false);
     }
 
     IEnumerator Attack()
@@ -87,7 +87,7 @@ public class EnemyController : MonoBehaviour
         rb.linearVelocity = Vector2.zero;
         
         // Activar animación de ataque
-        animator.SetBool("isAttacking", true);
+        //animator.SetBool("isAttacking", true);
         
         // Esperar a que termine la animación (ajustar según duración)
         yield return new WaitForSeconds(0.5f); // Ajusta este tiempo según la duración de tu animación
@@ -96,7 +96,7 @@ public class EnemyController : MonoBehaviour
         // Dejamos esto vacío por ahora
         
         // Terminar ataque
-        animator.SetBool("isAttacking", false);
+        //animator.SetBool("isAttacking", false);
     }
 
     // Método para recibir daño (lo dejamos preparado pero vacío como solicitaste)
